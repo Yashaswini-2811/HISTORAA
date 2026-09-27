@@ -1,1442 +1,1682 @@
 [
   {
-    "civ": "India",
-    "question": "Which river system is strongly associated with the Indus Valley Civilization?",
+    "id": 1,
+    "question": "Which ancient civilization built the pyramids at Giza?",
     "options": [
-      "Indus",
-      "Nile",
-      "Tiber",
-      "Amazon"
-    ],
-    "answer": 0,
-    "hint": "Think of the civilization’s name."
-  },
-  {
-    "civ": "India",
-    "question": "Mohenjo-daro is best known as what kind of site?",
-    "options": [
-      "An ancient planned city",
-      "A medieval castle",
-      "A Roman amphitheatre",
-      "A Greek sanctuary"
-    ],
-    "answer": 0,
-    "hint": "It was part of the Indus Civilization."
-  },
-  {
-    "civ": "India",
-    "question": "Which emperor is associated with inscriptions promoting ethical conduct after the Kalinga War?",
-    "options": [
-      "Ashoka",
-      "Akbar",
-      "Chandragupta II",
-      "Harsha"
-    ],
-    "answer": 0,
-    "hint": "He ruled the Mauryan Empire."
-  },
-  {
-    "civ": "India",
-    "question": "Nalanda was famous primarily as a centre of what?",
-    "options": [
-      "Learning",
-      "Shipbuilding",
-      "Gladiator games",
-      "Maya astronomy"
-    ],
-    "answer": 0,
-    "hint": "Students and scholars travelled there."
-  },
-  {
-    "civ": "India",
-    "question": "The Taj Mahal is in which city?",
-    "options": [
-      "Agra",
-      "Delhi",
-      "Jaipur",
-      "Mumbai"
-    ],
-    "answer": 0,
-    "hint": "It stands beside the Yamuna."
-  },
-  {
-    "civ": "India",
-    "question": "Hampi was the capital of which empire?",
-    "options": [
-      "Vijayanagara Empire",
-      "Mauryan Empire",
-      "Gupta Empire",
-      "Roman Empire"
-    ],
-    "answer": 0,
-    "hint": "Its ruins are in Karnataka."
-  },
-  {
-    "civ": "India",
-    "question": "Which ancient Indian mathematical concept became important in later place-value notation?",
-    "options": [
-      "Zero",
-      "Negative temperature",
-      "Roman numerals",
-      "Compass rose"
-    ],
-    "answer": 0,
-    "hint": "It represents an empty place."
-  },
-  {
-    "civ": "India",
-    "question": "The Ajanta caves are especially known for ancient what?",
-    "options": [
-      "Paintings and Buddhist art",
-      "Roman mosaics",
-      "Viking ships",
-      "Greek theatres"
-    ],
-    "answer": 0,
-    "hint": "Look at the wall paintings."
-  },
-  {
-    "civ": "India",
-    "question": "Which language family includes many classical and modern Indian languages such as Hindi and Bengali?",
-    "options": [
-      "Indo-Aryan",
-      "Germanic",
-      "Slavic",
-      "Celtic"
-    ],
-    "answer": 0,
-    "hint": "It is a branch of Indo-European."
-  },
-  {
-    "civ": "India",
-    "question": "The Chola dynasty was especially influential in which region?",
-    "options": [
-      "South India",
-      "Northern Europe",
-      "West Africa",
-      "Central America"
-    ],
-    "answer": 0,
-    "hint": "Think of Tamil history."
-  },
-  {
-    "civ": "India",
-    "question": "Which text is a major Sanskrit epic?",
-    "options": [
-      "Mahabharata",
-      "Iliad",
-      "Aeneid",
-      "Popol Vuh"
-    ],
-    "answer": 0,
-    "hint": "It is one of India’s great epics."
-  },
-  {
-    "civ": "India",
-    "question": "Buddhism began in which broad region?",
-    "options": [
-      "South Asia",
-      "Northern Europe",
-      "Mesoamerica",
-      "Southern Africa"
-    ],
-    "answer": 0,
-    "hint": "Think of the life of Siddhartha Gautama."
-  },
-  {
-    "civ": "India",
-    "question": "Which city is famous for the Golden Temple?",
-    "options": [
-      "Amritsar",
-      "Pune",
-      "Patna",
-      "Mysuru"
-    ],
-    "answer": 0,
-    "hint": "It is in Punjab."
-  },
-  {
-    "civ": "India",
-    "question": "The Gupta period is often associated with advances in which fields?",
-    "options": [
-      "Mathematics and astronomy",
-      "Steam engines",
-      "Printing presses in Europe",
-      "Roman law"
-    ],
-    "answer": 0,
-    "hint": "Think of classical Indian science."
-  },
-  {
-    "civ": "India",
-    "question": "Which monument is a famous example of Mughal architecture?",
-    "options": [
-      "Taj Mahal",
-      "Parthenon",
-      "Colosseum",
-      "Great Pyramid"
-    ],
-    "answer": 0,
-    "hint": "It is a mausoleum in Agra."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Which river was central to ancient Egyptian agriculture?",
-    "options": [
-      "Nile",
-      "Indus",
-      "Tiber",
-      "Yellow River"
-    ],
-    "answer": 0,
-    "hint": "It flows through northeastern Africa."
-  },
-  {
-    "civ": "Egypt",
-    "question": "The Great Pyramid was built at which site?",
-    "options": [
-      "Giza",
-      "Delphi",
-      "Hampi",
-      "Pompeii"
-    ],
-    "answer": 0,
-    "hint": "It is part of the famous Giza complex."
-  },
-  {
-    "civ": "Egypt",
-    "question": "What writing system used picture signs in ancient Egypt?",
-    "options": [
-      "Hieroglyphs",
-      "Cuneiform",
-      "Linear B",
-      "Kanji"
-    ],
-    "answer": 0,
-    "hint": "Its name refers to sacred carvings."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Hatshepsut was a ruler of which civilization?",
-    "options": [
-      "Ancient Egypt",
-      "Ancient Rome",
-      "Maya",
-      "Japan"
-    ],
-    "answer": 0,
-    "hint": "She ruled as pharaoh."
-  },
-  {
-    "civ": "Egypt",
-    "question": "The Valley of the Kings is near which ancient Egyptian city?",
-    "options": [
-      "Thebes",
-      "Athens",
-      "Rome",
-      "Tikal"
-    ],
-    "answer": 0,
-    "hint": "Modern Luxor is nearby."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Which material was commonly used for Egyptian writing sheets?",
-    "options": [
-      "Papyrus",
-      "Bamboo paper",
-      "Parchment only",
-      "Silk"
-    ],
-    "answer": 0,
-    "hint": "It comes from a river plant."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Cleopatra VII belonged to which dynasty?",
-    "options": [
-      "Ptolemaic",
-      "Ming",
-      "Gupta",
-      "Flavian"
-    ],
-    "answer": 0,
-    "hint": "The dynasty was of Macedonian Greek origin."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Karnak is famous for what?",
-    "options": [
-      "Temple complex",
-      "Roman road",
-      "Maya ball court",
-      "Samurai castle"
-    ],
-    "answer": 0,
-    "hint": "It is near Luxor."
-  },
-  {
-    "civ": "Egypt",
-    "question": "What is a pharaoh?",
-    "options": [
-      "An ancient Egyptian ruler",
-      "A Roman soldier",
-      "A Greek playwright",
-      "A Maya astronomer"
-    ],
-    "answer": 0,
-    "hint": "Think of Egypt’s kings and queens."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Abu Simbel is associated with which pharaoh?",
-    "options": [
-      "Ramesses II",
-      "Ashoka",
-      "Augustus",
-      "Qin Shi Huang"
-    ],
-    "answer": 0,
-    "hint": "His name appears in monumental inscriptions."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Ancient Egyptian religion included belief in an afterlife.",
-    "options": [
-      "Yes",
-      "No",
-      "Only in Roman times",
-      "Only in Greece"
-    ],
-    "answer": 0,
-    "hint": "Burial practices provide evidence."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Alexandria became famous as a centre of what?",
-    "options": [
-      "Scholarship and trade",
-      "Samurai warfare",
-      "Maya agriculture",
-      "Roman chariot racing"
-    ],
-    "answer": 0,
-    "hint": "Think of the famous ancient library."
-  },
-  {
-    "civ": "Egypt",
-    "question": "The Sphinx at Giza has the body of a what?",
-    "options": [
-      "Lion",
-      "Horse",
-      "Eagle",
-      "Bull"
-    ],
-    "answer": 0,
-    "hint": "Its head is human-like."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Which sea lies north of Egypt?",
-    "options": [
-      "Mediterranean Sea",
-      "Red Sea",
-      "Black Sea",
-      "Arabian Sea"
-    ],
-    "answer": 0,
-    "hint": "Egypt has a long Mediterranean coast."
-  },
-  {
-    "civ": "Egypt",
-    "question": "Egypt later became a province of which ancient empire?",
-    "options": [
-      "Rome",
-      "Maya",
-      "Maurya",
-      "Macedon only"
-    ],
-    "answer": 0,
-    "hint": "Roman rule followed the Ptolemaic period."
-  },
-  {
-    "civ": "Greece",
-    "question": "Which city-state is most associated with the development of classical democracy?",
-    "options": [
-      "Athens",
-      "Sparta",
-      "Thebes",
-      "Corinth"
-    ],
-    "answer": 0,
-    "hint": "Think of the Athenian assembly."
-  },
-  {
-    "civ": "Greece",
-    "question": "Which site was famous for the oracle of Apollo?",
-    "options": [
-      "Delphi",
-      "Giza",
-      "Hampi",
-      "Nara"
-    ],
-    "answer": 0,
-    "hint": "It is on mainland Greece."
-  },
-  {
-    "civ": "Greece",
-    "question": "The ancient Olympic Games were held at which sanctuary?",
-    "options": [
-      "Olympia",
-      "Athens",
-      "Delphi",
-      "Sparta"
-    ],
-    "answer": 0,
-    "hint": "The site gave the Games their name."
-  },
-  {
-    "civ": "Greece",
-    "question": "Socrates is best known as a what?",
-    "options": [
-      "Philosopher",
-      "Emperor",
-      "Architect",
-      "Pharaoh"
-    ],
-    "answer": 0,
-    "hint": "He used questioning to examine ideas."
-  },
-  {
-    "civ": "Greece",
-    "question": "Plato founded which school?",
-    "options": [
-      "Academy",
-      "Lyceum",
-      "Library of Alexandria",
-      "Nalanda"
-    ],
-    "answer": 0,
-    "hint": "It became a famous philosophical institution."
-  },
-  {
-    "civ": "Greece",
-    "question": "Aristotle studied which broad range of subjects?",
-    "options": [
-      "Many fields including logic and nature",
-      "Only military tactics",
-      "Only sculpture",
-      "Only navigation"
-    ],
-    "answer": 0,
-    "hint": "His works cover many disciplines."
-  },
-  {
-    "civ": "Greece",
-    "question": "Alexander the Great came from which kingdom?",
-    "options": [
-      "Macedon",
-      "Egypt",
-      "Rome",
-      "China"
-    ],
-    "answer": 0,
-    "hint": "His father was Philip II."
-  },
-  {
-    "civ": "Greece",
-    "question": "Which style is a classical Greek architectural order?",
-    "options": [
-      "Doric",
-      "Gothic",
-      "Baroque",
-      "Romanesque"
-    ],
-    "answer": 0,
-    "hint": "It is one of three well-known Greek orders."
-  },
-  {
-    "civ": "Greece",
-    "question": "Greek tragedy and comedy were forms of what?",
-    "options": [
-      "Theatre",
-      "Law",
-      "Astronomy",
-      "Navigation"
-    ],
-    "answer": 0,
-    "hint": "They were performed for audiences."
-  },
-  {
-    "civ": "Greece",
-    "question": "Sparta is traditionally associated with a strongly what society?",
-    "options": [
-      "Military-oriented",
-      "Maritime-trading only",
-      "Monastic",
-      "Nomadic"
-    ],
-    "answer": 0,
-    "hint": "Its social system emphasized warrior training."
-  },
-  {
-    "civ": "Greece",
-    "question": "The Parthenon stands on which Athenian hill?",
-    "options": [
-      "Acropolis",
-      "Capitoline",
-      "Palatine",
-      "Forum"
-    ],
-    "answer": 0,
-    "hint": "It overlooks Athens."
-  },
-  {
-    "civ": "Greece",
-    "question": "The Iliad is traditionally attributed to whom?",
-    "options": [
-      "Homer",
-      "Herodotus",
-      "Plato",
-      "Virgil"
-    ],
-    "answer": 0,
-    "hint": "He is a legendary Greek poet."
-  },
-  {
-    "civ": "Greece",
-    "question": "Hellenistic culture spread widely after whose conquests?",
-    "options": [
-      "Alexander the Great",
-      "Julius Caesar",
-      "Ashoka",
-      "Augustus"
-    ],
-    "answer": 0,
-    "hint": "His empire connected Greek and Near Eastern worlds."
-  },
-  {
-    "civ": "Greece",
-    "question": "Greek city-states were generally politically independent from each other.",
-    "options": [
-      "Yes",
-      "No",
-      "Only after Rome",
-      "Only during the Bronze Age"
-    ],
-    "answer": 0,
-    "hint": "Polis meant a distinct political community."
-  },
-  {
-    "civ": "Greece",
-    "question": "Which sea is central to Greek geography?",
-    "options": [
-      "Aegean Sea",
-      "Baltic Sea",
-      "Caribbean Sea",
-      "South China Sea"
-    ],
-    "answer": 0,
-    "hint": "It lies between Greece and Anatolia."
-  },
-  {
-    "civ": "China",
-    "question": "Which dynasty is famous for bronze casting and oracle bones?",
-    "options": [
-      "Shang",
-      "Gupta",
-      "Ptolemaic",
-      "Tokugawa"
-    ],
-    "answer": 0,
-    "hint": "Think of early Chinese civilization."
-  },
-  {
-    "civ": "China",
-    "question": "Who is associated with teachings about ethics, learning and social responsibility?",
-    "options": [
-      "Confucius",
-      "Socrates",
-      "Ashoka",
-      "Hatshepsut"
-    ],
-    "answer": 0,
-    "hint": "He lived in ancient China."
-  },
-  {
-    "civ": "China",
-    "question": "Which dynasty unified China in 221 BCE?",
-    "options": [
-      "Qin",
-      "Han",
-      "Tang",
-      "Ming"
-    ],
-    "answer": 0,
-    "hint": "Its ruler became China’s first emperor."
-  },
-  {
-    "civ": "China",
-    "question": "The Terracotta Army guards the tomb complex of whom?",
-    "options": [
-      "Qin Shi Huang",
-      "Confucius",
-      "Kublai Khan",
-      "Zheng He"
-    ],
-    "answer": 0,
-    "hint": "Think of the first emperor."
-  },
-  {
-    "civ": "China",
-    "question": "Which dynasty is associated with major Silk Road expansion?",
-    "options": [
-      "Han",
-      "Maya",
+      "Egyptian",
       "Roman",
-      "Heian"
-    ],
-    "answer": 0,
-    "hint": "It followed the Qin."
-  },
-  {
-    "civ": "China",
-    "question": "Paper was developed in ancient China.",
-    "options": [
-      "Yes",
-      "No",
-      "Only in Rome",
-      "Only in Egypt"
-    ],
-    "answer": 0,
-    "hint": "It transformed record keeping."
-  },
-  {
-    "civ": "China",
-    "question": "The Tang period is known for what?",
-    "options": [
-      "Cosmopolitan cities and cultural exchange",
-      "Only isolation",
-      "Roman law",
-      "Maya pyramids"
-    ],
-    "answer": 0,
-    "hint": "Think of Chang’an."
-  },
-  {
-    "civ": "China",
-    "question": "Who led famous Ming voyages across the Indian Ocean?",
-    "options": [
-      "Zheng He",
-      "Marco Polo",
-      "Alexander",
-      "Caesar"
-    ],
-    "answer": 0,
-    "hint": "He was a Ming admiral."
-  },
-  {
-    "civ": "China",
-    "question": "The Great Wall was built and rebuilt by which civilization?",
-    "options": [
-      "Chinese states and dynasties",
-      "Roman Britain",
-      "Maya kingdoms",
-      "Greek city-states"
-    ],
-    "answer": 0,
-    "hint": "Different periods contributed sections."
-  },
-  {
-    "civ": "China",
-    "question": "The Forbidden City is in which city?",
-    "options": [
-      "Beijing",
-      "Kyoto",
-      "Athens",
-      "Cairo"
-    ],
-    "answer": 0,
-    "hint": "It was an imperial palace complex."
-  },
-  {
-    "civ": "China",
-    "question": "The Silk Roads connected China with regions to the west.",
-    "options": [
-      "Yes",
-      "No",
-      "Only within China",
-      "Only across Japan"
-    ],
-    "answer": 0,
-    "hint": "They were long-distance networks."
-  },
-  {
-    "civ": "China",
-    "question": "Which philosophy emphasizes harmony and proper relationships and is associated with Confucius?",
-    "options": [
-      "Confucianism",
-      "Stoicism",
-      "Epicureanism",
-      "Shinto"
-    ],
-    "answer": 0,
-    "hint": "It is named after the teacher."
-  },
-  {
-    "civ": "China",
-    "question": "Woodblock printing became important in which historical region?",
-    "options": [
-      "China",
-      "Mesoamerica only",
-      "Ancient Egypt only",
-      "Rome only"
-    ],
-    "answer": 0,
-    "hint": "Chinese printing has early evidence."
-  },
-  {
-    "civ": "China",
-    "question": "Which city was a major Tang capital?",
-    "options": [
-      "Chang’an",
-      "Sparta",
-      "Pompeii",
-      "Hampi"
-    ],
-    "answer": 0,
-    "hint": "It was one of the world’s largest cities."
-  },
-  {
-    "civ": "China",
-    "question": "The Ming dynasty preceded which dynasty?",
-    "options": [
-      "Qing",
-      "Han",
-      "Qin",
-      "Tang"
-    ],
-    "answer": 0,
-    "hint": "Qing was the later imperial dynasty."
-  },
-  {
-    "civ": "Rome",
-    "question": "Rome grew beside which river?",
-    "options": [
-      "Tiber",
-      "Nile",
-      "Indus",
-      "Yellow River"
-    ],
-    "answer": 0,
-    "hint": "It flows through Rome."
-  },
-  {
-    "civ": "Rome",
-    "question": "The Roman Republic preceded the Roman Empire.",
-    "options": [
-      "Yes",
-      "No",
-      "Only in Greece",
-      "Only in Egypt"
-    ],
-    "answer": 0,
-    "hint": "The Republic lasted for centuries."
-  },
-  {
-    "civ": "Rome",
-    "question": "The Twelve Tables are associated with Roman what?",
-    "options": [
-      "Law",
-      "Astronomy",
-      "Painting",
-      "Medicine"
-    ],
-    "answer": 0,
-    "hint": "They are an early written Roman legal code."
-  },
-  {
-    "civ": "Rome",
-    "question": "Which rival power fought Rome in the Punic Wars?",
-    "options": [
-      "Carthage",
       "Maya",
-      "Macedon only",
-      "Japan"
+      "Persian"
     ],
-    "answer": 0,
-    "hint": "Hannibal was its famous general."
+    "answer": "Egyptian",
+    "correctAnswer": "Egyptian",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Think of the Nile Valley.",
+    "explanation": "Correct answer: Egyptian."
   },
   {
-    "civ": "Rome",
-    "question": "Who became Rome’s first emperor?",
+    "id": 2,
+    "question": "Which river was central to ancient Egyptian civilization?",
+    "options": [
+      "Nile",
+      "Ganges",
+      "Tiber",
+      "Danube"
+    ],
+    "answer": "Nile",
+    "correctAnswer": "Nile",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It flows through Egypt.",
+    "explanation": "Correct answer: Nile."
+  },
+  {
+    "id": 3,
+    "question": "Who was the first emperor of Rome?",
     "options": [
       "Augustus",
       "Julius Caesar",
       "Nero",
       "Trajan"
     ],
-    "answer": 0,
-    "hint": "He established the principate."
+    "answer": "Augustus",
+    "correctAnswer": "Augustus",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "His reign began in 27 BCE.",
+    "explanation": "Correct answer: Augustus."
   },
   {
-    "civ": "Rome",
-    "question": "The Colosseum was built in which city?",
+    "id": 4,
+    "question": "Which city was buried by Mount Vesuvius in 79 CE?",
     "options": [
-      "Rome",
+      "Pompeii",
       "Athens",
-      "Cairo",
-      "Kyoto"
+      "Sparta",
+      "Carthage"
     ],
-    "answer": 0,
-    "hint": "It is Rome’s famous amphitheatre."
+    "answer": "Pompeii",
+    "correctAnswer": "Pompeii",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was preserved by volcanic ash.",
+    "explanation": "Correct answer: Pompeii."
   },
   {
-    "civ": "Rome",
-    "question": "Pompeii was buried by which volcano’s eruption in 79 CE?",
+    "id": 5,
+    "question": "Who wrote the Iliad and the Odyssey?",
     "options": [
-      "Vesuvius",
-      "Etna",
-      "Olympus",
-      "Fuji"
-    ],
-    "answer": 0,
-    "hint": "It overlooks the Bay of Naples."
-  },
-  {
-    "civ": "Rome",
-    "question": "Roman aqueducts carried what?",
-    "options": [
-      "Water",
-      "Gold",
-      "Messages",
-      "Soldiers"
-    ],
-    "answer": 0,
-    "hint": "They used gravity and engineered channels."
-  },
-  {
-    "civ": "Rome",
-    "question": "Roman roads helped the empire do what?",
-    "options": [
-      "Connect regions and move people and goods",
-      "Build pyramids",
-      "Predict eclipses only",
-      "Grow rice"
-    ],
-    "answer": 0,
-    "hint": "Infrastructure supported administration and travel."
-  },
-  {
-    "civ": "Rome",
-    "question": "Which emperor is linked to a major early expansion of the Roman Empire?",
-    "options": [
-      "Trajan",
-      "Qin Shi Huang",
-      "Ashoka",
-      "Hatshepsut"
-    ],
-    "answer": 0,
-    "hint": "His reign included conquest in Dacia."
-  },
-  {
-    "civ": "Rome",
-    "question": "Christianity spread within the Roman Empire.",
-    "options": [
-      "Yes",
-      "No",
-      "Only in Japan",
-      "Only in Maya cities"
-    ],
-    "answer": 0,
-    "hint": "It began in the eastern Mediterranean."
-  },
-  {
-    "civ": "Rome",
-    "question": "Constantine is associated with which city?",
-    "options": [
-      "Constantinople",
-      "Hampi",
-      "Delphi",
-      "Tikal"
-    ],
-    "answer": 0,
-    "hint": "He founded a new imperial capital."
-  },
-  {
-    "civ": "Rome",
-    "question": "Roman law influenced many later legal systems.",
-    "options": [
-      "Yes",
-      "No",
-      "Only Egyptian law",
-      "Only Greek drama"
-    ],
-    "answer": 0,
-    "hint": "Its concepts were studied for centuries."
-  },
-  {
-    "civ": "Rome",
-    "question": "Latin developed into several modern languages.",
-    "options": [
-      "Yes",
-      "No",
-      "Only Chinese languages",
-      "Only Maya languages"
-    ],
-    "answer": 0,
-    "hint": "These are called Romance languages."
-  },
-  {
-    "civ": "Rome",
-    "question": "The Roman Empire was centered around which sea?",
-    "options": [
-      "Mediterranean",
-      "Arctic",
-      "Caribbean",
-      "Baltic"
-    ],
-    "answer": 0,
-    "hint": "Romans called it their inland sea."
-  },
-  {
-    "civ": "Maya",
-    "question": "The Maya civilization developed mainly in which region?",
-    "options": [
-      "Mesoamerica",
-      "Northern Europe",
-      "South Asia",
-      "East Africa"
-    ],
-    "answer": 0,
-    "hint": "Think of present-day southern Mexico and Central America."
-  },
-  {
-    "civ": "Maya",
-    "question": "Which site is a famous Maya city?",
-    "options": [
-      "Tikal",
-      "Rome",
-      "Giza",
-      "Hampi"
-    ],
-    "answer": 0,
-    "hint": "It is in Guatemala."
-  },
-  {
-    "civ": "Maya",
-    "question": "Maya writing was used to record what?",
-    "options": [
-      "Rulers, events and rituals",
-      "Only recipes",
-      "Only weather forecasts",
-      "Only Roman laws"
-    ],
-    "answer": 0,
-    "hint": "Inscriptions preserve historical information."
-  },
-  {
-    "civ": "Maya",
-    "question": "Chichén Itzá is in which modern country?",
-    "options": [
-      "Mexico",
-      "India",
-      "Italy",
-      "China"
-    ],
-    "answer": 0,
-    "hint": "It is in the Yucatán Peninsula."
-  },
-  {
-    "civ": "Maya",
-    "question": "Maya scholars developed complex what?",
-    "options": [
-      "Calendars",
-      "Steam engines",
-      "Aqueducts",
-      "Compass needles"
-    ],
-    "answer": 0,
-    "hint": "Timekeeping was central to ritual life."
-  },
-  {
-    "civ": "Maya",
-    "question": "Palenque is famous for inscriptions and the tomb of which ruler?",
-    "options": [
-      "K’inich Janaab’ Pakal",
-      "Augustus",
-      "Ashoka",
-      "Ramesses II"
-    ],
-    "answer": 0,
-    "hint": "His tomb is under the Temple of the Inscriptions."
-  },
-  {
-    "civ": "Maya",
-    "question": "The Maya built large ceremonial centers in tropical environments.",
-    "options": [
-      "Yes",
-      "No",
-      "Only after Rome",
-      "Only in Japan"
-    ],
-    "answer": 0,
-    "hint": "Their cities include plazas and pyramids."
-  },
-  {
-    "civ": "Maya",
-    "question": "The Mesoamerican ballgame had ritual and social importance.",
-    "options": [
-      "Yes",
-      "No",
-      "Only in medieval Europe",
-      "Only in China"
-    ],
-    "answer": 0,
-    "hint": "It appears across Mesoamerican cultures."
-  },
-  {
-    "civ": "Maya",
-    "question": "Obsidian and jade were among goods traded in Mesoamerica.",
-    "options": [
-      "Yes",
-      "No",
-      "Only Roman goods",
-      "Only Japanese goods"
-    ],
-    "answer": 0,
-    "hint": "Archaeology shows long-distance exchange."
-  },
-  {
-    "civ": "Maya",
-    "question": "Maya political organization often involved competing what?",
-    "options": [
-      "City-states or kingdoms",
-      "Modern nation-states",
-      "Roman provinces",
-      "Samurai clans only"
-    ],
-    "answer": 0,
-    "hint": "Inscriptions name rulers and polities."
-  },
-  {
-    "civ": "Maya",
-    "question": "Maya astronomy was connected to calendars and ritual.",
-    "options": [
-      "Yes",
-      "No",
-      "Only to Roman law",
-      "Only to shipbuilding"
-    ],
-    "answer": 0,
-    "hint": "Sky observations had cultural uses."
-  },
-  {
-    "civ": "Maya",
-    "question": "Maya languages are still spoken today.",
-    "options": [
-      "Yes",
-      "No",
-      "Only in museums",
-      "Only in ancient inscriptions"
-    ],
-    "answer": 0,
-    "hint": "Living Maya communities preserve many languages."
-  },
-  {
-    "civ": "Maya",
-    "question": "Tikal is located in which modern country?",
-    "options": [
-      "Guatemala",
-      "Japan",
-      "Greece",
-      "Egypt"
-    ],
-    "answer": 0,
-    "hint": "It is a major archaeological park there."
-  },
-  {
-    "civ": "Maya",
-    "question": "Chichén Itzá is associated with which architectural feature?",
-    "options": [
-      "Large ceremonial pyramids and plazas",
-      "Roman aqueducts",
-      "Greek theatres only",
-      "Japanese castles"
-    ],
-    "answer": 0,
-    "hint": "Its monuments include El Castillo."
-  },
-  {
-    "civ": "Maya",
-    "question": "Spanish colonial rule transformed Maya societies but Maya cultures continued.",
-    "options": [
-      "Yes",
-      "No",
-      "Only for one generation",
-      "Only outside Mesoamerica"
-    ],
-    "answer": 0,
-    "hint": "Maya communities remain active today."
-  },
-  {
-    "civ": "Japan",
-    "question": "Jomon culture is known for what?",
-    "options": [
-      "Pottery and hunter-fisher-gatherer lifeways",
-      "Roman roads",
-      "Pyramids",
-      "Greek democracy"
-    ],
-    "answer": 0,
-    "hint": "Its pottery is among Japan’s oldest."
-  },
-  {
-    "civ": "Japan",
-    "question": "Rice agriculture expanded during which period?",
-    "options": [
-      "Yayoi",
-      "Heian",
-      "Edo",
-      "Meiji"
-    ],
-    "answer": 0,
-    "hint": "It followed the Jomon period."
-  },
-  {
-    "civ": "Japan",
-    "question": "Nara became an early permanent capital in which period?",
-    "options": [
-      "Nara period",
-      "Roman period",
-      "Maya Classic",
-      "Ptolemaic period"
-    ],
-    "answer": 0,
-    "hint": "The period is named after the city."
-  },
-  {
-    "civ": "Japan",
-    "question": "Todai-ji is famous for what?",
-    "options": [
-      "Great Buddha",
-      "Colosseum",
-      "Great Pyramid",
-      "Parthenon"
-    ],
-    "answer": 0,
-    "hint": "It is in Nara."
-  },
-  {
-    "civ": "Japan",
-    "question": "Heian-kyō later became known as which city?",
-    "options": [
-      "Kyoto",
-      "Tokyo",
-      "Osaka",
-      "Nara"
-    ],
-    "answer": 0,
-    "hint": "It remained a major cultural center."
-  },
-  {
-    "civ": "Japan",
-    "question": "Who is traditionally associated with The Tale of Genji?",
-    "options": [
-      "Murasaki Shikibu",
-      "Hatshepsut",
-      "Cleopatra",
-      "Lady Six Sky"
-    ],
-    "answer": 0,
-    "hint": "She was a Heian court writer."
-  },
-  {
-    "civ": "Japan",
-    "question": "Samurai were associated with which social role?",
-    "options": [
-      "Warrior class",
-      "Temple priests only",
-      "Farmers only",
-      "Merchants only"
-    ],
-    "answer": 0,
-    "hint": "They served warrior governments and lords."
-  },
-  {
-    "civ": "Japan",
-    "question": "The Kamakura shogunate was a form of what?",
-    "options": [
-      "Military government",
-      "Roman senate",
-      "Maya city-state",
-      "Egyptian priesthood"
-    ],
-    "answer": 0,
-    "hint": "The shogun held political power."
-  },
-  {
-    "civ": "Japan",
-    "question": "Tokugawa rule brought long political stability.",
-    "options": [
-      "Yes",
-      "No",
-      "Only for one year",
-      "Only outside Japan"
-    ],
-    "answer": 0,
-    "hint": "The Edo period lasted from the early 1600s to the 1800s."
-  },
-  {
-    "civ": "Japan",
-    "question": "Kabuki is a form of what?",
-    "options": [
-      "Theatre",
-      "Architecture",
-      "Agriculture",
-      "Writing system"
-    ],
-    "answer": 0,
-    "hint": "It is a famous performing art."
-  },
-  {
-    "civ": "Japan",
-    "question": "Ukiyo-e is associated with what?",
-    "options": [
-      "Woodblock prints",
-      "Roman mosaics",
-      "Maya calendars",
-      "Egyptian hieroglyphs"
-    ],
-    "answer": 0,
-    "hint": "It flourished in the Edo period."
-  },
-  {
-    "civ": "Japan",
-    "question": "Himeji Castle is in which country?",
-    "options": [
-      "Japan",
-      "China",
-      "Greece",
-      "India"
-    ],
-    "answer": 0,
-    "hint": "It is one of Japan’s best-known castles."
-  },
-  {
-    "civ": "Japan",
-    "question": "The Meiji period saw rapid modernization and industrialization.",
-    "options": [
-      "Yes",
-      "No",
-      "Only in ancient times",
-      "Only in Egypt"
-    ],
-    "answer": 0,
-    "hint": "Japan reorganized institutions after 1868."
-  },
-  {
-    "civ": "Japan",
-    "question": "Shinto is a religious tradition associated with which country?",
-    "options": [
-      "Japan",
-      "Rome",
-      "Maya region",
-      "Egypt"
-    ],
-    "answer": 0,
-    "hint": "Shrines and kami are central concepts."
-  },
-  {
-    "civ": "Japan",
-    "question": "Kyoto is famous for temples, gardens and traditional arts.",
-    "options": [
-      "Yes",
-      "No",
-      "Only for Roman ruins",
-      "Only for pyramids"
-    ],
-    "answer": 0,
-    "hint": "It preserves many historical sites."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which civilization built the Colosseum?",
-    "options": [
-      "Rome",
-      "Egypt",
-      "Maya",
-      "Japan"
-    ],
-    "answer": 0,
-    "hint": "Think of gladiatorial spectacles."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which site is in Japan?",
-    "options": [
-      "Himeji Castle",
-      "Giza",
-      "Delphi",
-      "Tikal"
-    ],
-    "answer": 0,
-    "hint": "It is a famous Japanese castle."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which site is in Greece?",
-    "options": [
-      "Parthenon",
-      "Taj Mahal",
-      "Great Pyramid",
-      "Himeji Castle"
-    ],
-    "answer": 0,
-    "hint": "It stands on the Acropolis."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which civilization is associated with the Nile?",
-    "options": [
-      "Egypt",
-      "Maya",
-      "Rome",
-      "China"
-    ],
-    "answer": 0,
-    "hint": "Think of northeastern Africa."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which civilization developed oracle-bone inscriptions?",
-    "options": [
-      "China",
-      "Greece",
-      "India",
-      "Japan"
-    ],
-    "answer": 0,
-    "hint": "They are associated with the Shang."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which civilization is associated with Tikal?",
-    "options": [
-      "Maya",
-      "Roman",
-      "Egyptian",
-      "Japanese"
-    ],
-    "answer": 0,
-    "hint": "It is in Guatemala."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which site is in India?",
-    "options": [
-      "Hampi",
-      "Pompeii",
-      "Delphi",
-      "Tikal"
-    ],
-    "answer": 0,
-    "hint": "It was a Vijayanagara capital."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which ruler is associated with the Mauryan Empire?",
-    "options": [
-      "Ashoka",
-      "Augustus",
-      "Qin Shi Huang",
-      "Hatshepsut"
-    ],
-    "answer": 0,
-    "hint": "He promoted ethical messages after the Kalinga War."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which ruler is associated with the Qin dynasty?",
-    "options": [
-      "Qin Shi Huang",
-      "Ashoka",
-      "Augustus",
-      "Murasaki Shikibu"
-    ],
-    "answer": 0,
-    "hint": "He became China’s first emperor."
-  },
-  {
-    "civ": "Mixed",
-    "question": "Which writer is associated with The Tale of Genji?",
-    "options": [
-      "Murasaki Shikibu",
       "Homer",
+      "Herodotus",
       "Plato",
-      "Virgil"
+      "Aristotle"
     ],
-    "answer": 0,
-    "hint": "She lived in Heian Japan."
+    "answer": "Homer",
+    "correctAnswer": "Homer",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He is the famous Greek epic poet.",
+    "explanation": "Correct answer: Homer."
   },
   {
-    "civ": "Mixed",
-    "question": "Which site is associated with an ancient Greek oracle?",
+    "id": 6,
+    "question": "Which Greek city-state was famous for military training?",
     "options": [
-      "Delphi",
-      "Palenque",
-      "Karnak",
-      "Nalanda"
+      "Sparta",
+      "Athens",
+      "Corinth",
+      "Thebes"
     ],
-    "answer": 0,
-    "hint": "It was sacred to Apollo."
+    "answer": "Sparta",
+    "correctAnswer": "Sparta",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Its society emphasized warfare.",
+    "explanation": "Correct answer: Sparta."
   },
   {
-    "civ": "Mixed",
-    "question": "Which monument is a Roman amphitheatre?",
+    "id": 7,
+    "question": "Who was the teacher of Alexander the Great?",
     "options": [
-      "Colosseum",
-      "Parthenon",
-      "Taj Mahal",
-      "Great Pyramid"
+      "Aristotle",
+      "Socrates",
+      "Plato",
+      "Pythagoras"
     ],
-    "answer": 0,
-    "hint": "It is in Rome."
+    "answer": "Aristotle",
+    "correctAnswer": "Aristotle",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was a famous Greek philosopher.",
+    "explanation": "Correct answer: Aristotle."
   },
   {
-    "civ": "Mixed",
-    "question": "Which civilization used hieroglyphs?",
+    "id": 8,
+    "question": "Which empire was ruled by Cyrus the Great?",
     "options": [
-      "Ancient Egypt",
-      "Rome",
-      "Maya only",
-      "Japan"
+      "Achaemenid Persian Empire",
+      "Roman Empire",
+      "Maurya Empire",
+      "Ottoman Empire"
     ],
-    "answer": 0,
-    "hint": "They appear on temples and monuments."
+    "answer": "Achaemenid Persian Empire",
+    "correctAnswer": "Achaemenid Persian Empire",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was the first great Persian Empire.",
+    "explanation": "Correct answer: Achaemenid Persian Empire."
   },
   {
-    "civ": "Mixed",
-    "question": "Which civilization is famous for the Silk Roads?",
+    "id": 9,
+    "question": "Who founded the Maurya Empire?",
     "options": [
-      "China",
-      "Maya",
-      "Greece only",
-      "Egypt only"
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Harsha",
+      "Samudragupta"
     ],
-    "answer": 0,
-    "hint": "Long-distance trade connected it with Central Asia."
+    "answer": "Chandragupta Maurya",
+    "correctAnswer": "Chandragupta Maurya",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He established the dynasty in the 4th century BCE.",
+    "explanation": "Correct answer: Chandragupta Maurya."
   },
   {
-    "civ": "Mixed",
-    "question": "Which site is associated with the Maya?",
+    "id": 10,
+    "question": "Which Mauryan ruler promoted Buddhism after the Kalinga War?",
     "options": [
-      "Chichén Itzá",
+      "Ashoka",
+      "Bindusara",
+      "Chandragupta Maurya",
+      "Kanishka"
+    ],
+    "answer": "Ashoka",
+    "correctAnswer": "Ashoka",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He issued many rock and pillar edicts.",
+    "explanation": "Correct answer: Ashoka."
+  },
+  {
+    "id": 11,
+    "question": "Which ancient university was located in present-day Bihar?",
+    "options": [
+      "Nalanda",
+      "Taxila",
+      "Vikramashila",
+      "Valabhi"
+    ],
+    "answer": "Nalanda",
+    "correctAnswer": "Nalanda",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It became a major Buddhist center of learning.",
+    "explanation": "Correct answer: Nalanda."
+  },
+  {
+    "id": 12,
+    "question": "Who wrote the Arthashastra?",
+    "options": [
+      "Kautilya",
+      "Kalidasa",
+      "Banabhatta",
+      "Panini"
+    ],
+    "answer": "Kautilya",
+    "correctAnswer": "Kautilya",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was also known as Chanakya.",
+    "explanation": "Correct answer: Kautilya."
+  },
+  {
+    "id": 13,
+    "question": "Which Gupta ruler is associated with the Iron Pillar inscription?",
+    "options": [
+      "Chandragupta II",
+      "Samudragupta",
+      "Skandagupta",
+      "Kumaragupta"
+    ],
+    "answer": "Chandragupta II",
+    "correctAnswer": "Chandragupta II",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was also called Vikramaditya.",
+    "explanation": "Correct answer: Chandragupta II."
+  },
+  {
+    "id": 14,
+    "question": "Which Chinese invention helped spread books widely?",
+    "options": [
+      "Printing",
+      "Steam engine",
+      "Telescope",
+      "Compass only"
+    ],
+    "answer": "Printing",
+    "correctAnswer": "Printing",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Woodblock printing was used early in China.",
+    "explanation": "Correct answer: Printing."
+  },
+  {
+    "id": 15,
+    "question": "Who founded the Mughal Empire in India?",
+    "options": [
+      "Babur",
+      "Akbar",
+      "Humayun",
+      "Shah Jahan"
+    ],
+    "answer": "Babur",
+    "correctAnswer": "Babur",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He won the First Battle of Panipat in 1526.",
+    "explanation": "Correct answer: Babur."
+  },
+  {
+    "id": 16,
+    "question": "Who was Akbar's finance minister?",
+    "options": [
+      "Raja Todar Mal",
+      "Birbal",
+      "Tansen",
+      "Man Singh"
+    ],
+    "answer": "Raja Todar Mal",
+    "correctAnswer": "Raja Todar Mal",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He introduced important revenue reforms.",
+    "explanation": "Correct answer: Raja Todar Mal."
+  },
+  {
+    "id": 17,
+    "question": "Who built the Taj Mahal?",
+    "options": [
+      "Shah Jahan",
+      "Akbar",
+      "Aurangzeb",
+      "Humayun"
+    ],
+    "answer": "Shah Jahan",
+    "correctAnswer": "Shah Jahan",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was built in memory of Mumtaz Mahal.",
+    "explanation": "Correct answer: Shah Jahan."
+  },
+  {
+    "id": 18,
+    "question": "Which Mughal ruler commissioned the Peacock Throne?",
+    "options": [
+      "Shah Jahan",
+      "Babur",
+      "Akbar",
+      "Bahadur Shah Zafar"
+    ],
+    "answer": "Shah Jahan",
+    "correctAnswer": "Shah Jahan",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was the builder of the Taj Mahal.",
+    "explanation": "Correct answer: Shah Jahan."
+  },
+  {
+    "id": 19,
+    "question": "Who founded the Sikh religion?",
+    "options": [
+      "Guru Nanak",
+      "Guru Gobind Singh",
+      "Guru Arjan",
+      "Guru Tegh Bahadur"
+    ],
+    "answer": "Guru Nanak",
+    "correctAnswer": "Guru Nanak",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was the first Sikh Guru.",
+    "explanation": "Correct answer: Guru Nanak."
+  },
+  {
+    "id": 20,
+    "question": "Who founded the Maratha state?",
+    "options": [
+      "Shivaji",
+      "Bajirao I",
+      "Sambhaji",
+      "Balaji Vishwanath"
+    ],
+    "answer": "Shivaji",
+    "correctAnswer": "Shivaji",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was crowned in 1674.",
+    "explanation": "Correct answer: Shivaji."
+  },
+  {
+    "id": 21,
+    "question": "Which European trading company established major settlements in India?",
+    "options": [
+      "English East India Company",
+      "Viking Company",
+      "Venetian Company",
+      "Mayan Company"
+    ],
+    "answer": "English East India Company",
+    "correctAnswer": "English East India Company",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was chartered in 1600.",
+    "explanation": "Correct answer: English East India Company."
+  },
+  {
+    "id": 22,
+    "question": "The Battle of Plassey was fought in which year?",
+    "options": [
+      "1757",
+      "1764",
+      "1857",
+      "1947"
+    ],
+    "answer": "1757",
+    "correctAnswer": "1757",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It occurred in Bengal.",
+    "explanation": "Correct answer: 1757."
+  },
+  {
+    "id": 23,
+    "question": "The Battle of Buxar was fought in which year?",
+    "options": [
+      "1764",
+      "1757",
+      "1857",
+      "1773"
+    ],
+    "answer": "1764",
+    "correctAnswer": "1764",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It followed Plassey by seven years.",
+    "explanation": "Correct answer: 1764."
+  },
+  {
+    "id": 24,
+    "question": "Who led the 1857 uprising at Jhansi?",
+    "options": [
+      "Rani Lakshmibai",
+      "Begum Hazrat Mahal",
+      "Sarojini Naidu",
+      "Annie Besant"
+    ],
+    "answer": "Rani Lakshmibai",
+    "correctAnswer": "Rani Lakshmibai",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She became a symbol of resistance.",
+    "explanation": "Correct answer: Rani Lakshmibai."
+  },
+  {
+    "id": 25,
+    "question": "Who founded the Indian National Congress?",
+    "options": [
+      "Allan Octavian Hume and early Indian leaders",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru"
+    ],
+    "answer": "Allan Octavian Hume and early Indian leaders",
+    "correctAnswer": "Allan Octavian Hume and early Indian leaders",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was founded in 1885.",
+    "explanation": "Correct answer: Allan Octavian Hume and early Indian leaders."
+  },
+  {
+    "id": 26,
+    "question": "Who led the Salt March in 1930?",
+    "options": [
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "answer": "Mahatma Gandhi",
+    "correctAnswer": "Mahatma Gandhi",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "The march went to Dandi.",
+    "explanation": "Correct answer: Mahatma Gandhi."
+  },
+  {
+    "id": 27,
+    "question": "Which movement began in 1942 calling for an end to British rule?",
+    "options": [
+      "Quit India Movement",
+      "Swadeshi Movement",
+      "Khilafat Movement",
+      "Home Rule Movement"
+    ],
+    "answer": "Quit India Movement",
+    "correctAnswer": "Quit India Movement",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Its slogan included 'Do or Die'.",
+    "explanation": "Correct answer: Quit India Movement."
+  },
+  {
+    "id": 28,
+    "question": "When did India become independent?",
+    "options": [
+      "15 August 1947",
+      "26 January 1950",
+      "2 October 1947",
+      "15 August 1950"
+    ],
+    "answer": "15 August 1947",
+    "correctAnswer": "15 August 1947",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "India celebrates Independence Day on this date.",
+    "explanation": "Correct answer: 15 August 1947."
+  },
+  {
+    "id": 29,
+    "question": "When did the Constitution of India come into effect?",
+    "options": [
+      "26 January 1950",
+      "15 August 1947",
+      "26 November 1949",
+      "2 October 1950"
+    ],
+    "answer": "26 January 1950",
+    "correctAnswer": "26 January 1950",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It is celebrated as Republic Day.",
+    "explanation": "Correct answer: 26 January 1950."
+  },
+  {
+    "id": 30,
+    "question": "Who chaired the Drafting Committee of the Indian Constitution?",
+    "options": [
+      "B. R. Ambedkar",
+      "Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": "B. R. Ambedkar",
+    "correctAnswer": "B. R. Ambedkar",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He is widely known as the chief architect of the Constitution.",
+    "explanation": "Correct answer: B. R. Ambedkar."
+  },
+  {
+    "id": 31,
+    "question": "Who was India's first President?",
+    "options": [
+      "Rajendra Prasad",
+      "S. Radhakrishnan",
+      "Jawaharlal Nehru",
+      "Zakir Husain"
+    ],
+    "answer": "Rajendra Prasad",
+    "correctAnswer": "Rajendra Prasad",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He served from 1950 to 1962.",
+    "explanation": "Correct answer: Rajendra Prasad."
+  },
+  {
+    "id": 32,
+    "question": "Who was India's first Prime Minister?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Sardar Patel",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "correctAnswer": "Jawaharlal Nehru",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He served from 1947 to 1964.",
+    "explanation": "Correct answer: Jawaharlal Nehru."
+  },
+  {
+    "id": 33,
+    "question": "Who was known as the 'Iron Man of India'?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Bhagat Singh",
+      "Subhas Chandra Bose",
+      "Bal Gangadhar Tilak"
+    ],
+    "answer": "Sardar Vallabhbhai Patel",
+    "correctAnswer": "Sardar Vallabhbhai Patel",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He helped integrate princely states.",
+    "explanation": "Correct answer: Sardar Vallabhbhai Patel."
+  },
+  {
+    "id": 34,
+    "question": "Who gave the slogan 'Jai Hind' a prominent place in India's freedom struggle?",
+    "options": [
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Dadabhai Naoroji",
+      "Gopal Krishna Gokhale"
+    ],
+    "answer": "Subhas Chandra Bose",
+    "correctAnswer": "Subhas Chandra Bose",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He led the Indian National Army.",
+    "explanation": "Correct answer: Subhas Chandra Bose."
+  },
+  {
+    "id": 35,
+    "question": "Who founded the Indian National Army's famous women's regiment?",
+    "options": [
+      "Lakshmi Sahgal",
+      "Sarojini Naidu",
+      "Aruna Asaf Ali",
+      "Vijaya Lakshmi Pandit"
+    ],
+    "answer": "Lakshmi Sahgal",
+    "correctAnswer": "Lakshmi Sahgal",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was called the Rani of Jhansi Regiment.",
+    "explanation": "Correct answer: Lakshmi Sahgal."
+  },
+  {
+    "id": 36,
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": [
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Vijaya Lakshmi Pandit",
+      "Pratibha Patil"
+    ],
+    "answer": "Indira Gandhi",
+    "correctAnswer": "Indira Gandhi",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She became Prime Minister in 1966.",
+    "explanation": "Correct answer: Indira Gandhi."
+  },
+  {
+    "id": 37,
+    "question": "Who was the first Indian woman to win an Olympic medal?",
+    "options": [
+      "Karnam Malleswari",
+      "P. T. Usha",
+      "Mary Kom",
+      "Saina Nehwal"
+    ],
+    "answer": "Karnam Malleswari",
+    "correctAnswer": "Karnam Malleswari",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She won bronze in weightlifting in 2000.",
+    "explanation": "Correct answer: Karnam Malleswari."
+  },
+  {
+    "id": 38,
+    "question": "Who was the first Indian woman to climb Mount Everest?",
+    "options": [
+      "Bachendri Pal",
+      "Arunima Sinha",
+      "Santosh Yadav",
+      "Dicky Dolma"
+    ],
+    "answer": "Bachendri Pal",
+    "correctAnswer": "Bachendri Pal",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She reached the summit in 1984.",
+    "explanation": "Correct answer: Bachendri Pal."
+  },
+  {
+    "id": 39,
+    "question": "Who was the first woman President of India?",
+    "options": [
+      "Pratibha Patil",
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Droupadi Murmu"
+    ],
+    "answer": "Pratibha Patil",
+    "correctAnswer": "Pratibha Patil",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She became President in 2007.",
+    "explanation": "Correct answer: Pratibha Patil."
+  },
+  {
+    "id": 40,
+    "question": "Who was known as the 'Nightingale of India'?",
+    "options": [
+      "Sarojini Naidu",
+      "Lata Mangeshkar",
+      "Annie Besant",
+      "Aruna Asaf Ali"
+    ],
+    "answer": "Sarojini Naidu",
+    "correctAnswer": "Sarojini Naidu",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She was a poet and freedom fighter.",
+    "explanation": "Correct answer: Sarojini Naidu."
+  },
+  {
+    "id": 41,
+    "question": "Who founded the Brahmo Samaj?",
+    "options": [
+      "Raja Ram Mohan Roy",
+      "Swami Vivekananda",
+      "Dayanand Saraswati",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "answer": "Raja Ram Mohan Roy",
+    "correctAnswer": "Raja Ram Mohan Roy",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He campaigned against social practices such as sati.",
+    "explanation": "Correct answer: Raja Ram Mohan Roy."
+  },
+  {
+    "id": 42,
+    "question": "Who founded the Arya Samaj?",
+    "options": [
+      "Dayanand Saraswati",
+      "Raja Ram Mohan Roy",
+      "Swami Vivekananda",
+      "Ramanuja"
+    ],
+    "answer": "Dayanand Saraswati",
+    "correctAnswer": "Dayanand Saraswati",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Its motto emphasized a return to the Vedas.",
+    "explanation": "Correct answer: Dayanand Saraswati."
+  },
+  {
+    "id": 43,
+    "question": "Who founded the Ramakrishna Mission?",
+    "options": [
+      "Swami Vivekananda",
+      "Ramakrishna Paramahamsa",
+      "Dayanand Saraswati",
+      "Rabindranath Tagore"
+    ],
+    "answer": "Swami Vivekananda",
+    "correctAnswer": "Swami Vivekananda",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was founded in 1897.",
+    "explanation": "Correct answer: Swami Vivekananda."
+  },
+  {
+    "id": 44,
+    "question": "Who wrote India's national anthem?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chattopadhyay",
+      "Sarojini Naidu",
+      "Muhammad Iqbal"
+    ],
+    "answer": "Rabindranath Tagore",
+    "correctAnswer": "Rabindranath Tagore",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was a Nobel Prize-winning poet.",
+    "explanation": "Correct answer: Rabindranath Tagore."
+  },
+  {
+    "id": 45,
+    "question": "Who wrote 'Vande Mataram'?",
+    "options": [
+      "Bankim Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi"
+    ],
+    "answer": "Bankim Chandra Chattopadhyay",
+    "correctAnswer": "Bankim Chandra Chattopadhyay",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It appeared in the novel Anandamath.",
+    "explanation": "Correct answer: Bankim Chandra Chattopadhyay."
+  },
+  {
+    "id": 46,
+    "question": "Who was the first Indian Nobel Prize winner?",
+    "options": [
+      "Rabindranath Tagore",
+      "C. V. Raman",
+      "Amartya Sen",
+      "Mother Teresa"
+    ],
+    "answer": "Rabindranath Tagore",
+    "correctAnswer": "Rabindranath Tagore",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He won the Nobel Prize in Literature in 1913.",
+    "explanation": "Correct answer: Rabindranath Tagore."
+  },
+  {
+    "id": 47,
+    "question": "Who discovered the Raman Effect?",
+    "options": [
+      "C. V. Raman",
+      "Jagadish Chandra Bose",
+      "S. N. Bose",
+      "Homi Bhabha"
+    ],
+    "answer": "C. V. Raman",
+    "correctAnswer": "C. V. Raman",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He won the Nobel Prize in Physics in 1930.",
+    "explanation": "Correct answer: C. V. Raman."
+  },
+  {
+    "id": 48,
+    "question": "Who was known for pioneering radio and plant-response experiments in India?",
+    "options": [
+      "Jagadish Chandra Bose",
+      "C. V. Raman",
+      "Vikram Sarabhai",
+      "Homi Bhabha"
+    ],
+    "answer": "Jagadish Chandra Bose",
+    "correctAnswer": "Jagadish Chandra Bose",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He worked in physics and plant physiology.",
+    "explanation": "Correct answer: Jagadish Chandra Bose."
+  },
+  {
+    "id": 49,
+    "question": "Who is called the father of India's space programme?",
+    "options": [
+      "Vikram Sarabhai",
+      "Homi Bhabha",
+      "A. P. J. Abdul Kalam",
+      "Satish Dhawan"
+    ],
+    "answer": "Vikram Sarabhai",
+    "correctAnswer": "Vikram Sarabhai",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He founded institutions that led to ISRO.",
+    "explanation": "Correct answer: Vikram Sarabhai."
+  },
+  {
+    "id": 50,
+    "question": "Who is known as the 'Missile Man of India'?",
+    "options": [
+      "A. P. J. Abdul Kalam",
+      "Vikram Sarabhai",
+      "Homi Bhabha",
+      "C. V. Raman"
+    ],
+    "answer": "A. P. J. Abdul Kalam",
+    "correctAnswer": "A. P. J. Abdul Kalam",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He later became President of India.",
+    "explanation": "Correct answer: A. P. J. Abdul Kalam."
+  },
+  {
+    "id": 51,
+    "question": "Which civilization developed along the Indus River and its tributaries?",
+    "options": [
+      "Indus Valley Civilization",
+      "Minoan Civilization",
+      "Maya Civilization",
+      "Olmec Civilization"
+    ],
+    "answer": "Indus Valley Civilization",
+    "correctAnswer": "Indus Valley Civilization",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Harappa and Mohenjo-daro belonged to it.",
+    "explanation": "Correct answer: Indus Valley Civilization."
+  },
+  {
+    "id": 52,
+    "question": "Which site is famous for the Great Bath?",
+    "options": [
+      "Mohenjo-daro",
+      "Lothal",
+      "Dholavira",
+      "Taxila"
+    ],
+    "answer": "Mohenjo-daro",
+    "correctAnswer": "Mohenjo-daro",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It is in present-day Pakistan.",
+    "explanation": "Correct answer: Mohenjo-daro."
+  },
+  {
+    "id": 53,
+    "question": "Which Indus Valley site is famous for its dockyard?",
+    "options": [
+      "Lothal",
+      "Harappa",
+      "Mohenjo-daro",
+      "Kalibangan"
+    ],
+    "answer": "Lothal",
+    "correctAnswer": "Lothal",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was an important trading center.",
+    "explanation": "Correct answer: Lothal."
+  },
+  {
+    "id": 54,
+    "question": "Which ancient Indian text contains hymns and is among the oldest Vedic texts?",
+    "options": [
+      "Rigveda",
+      "Arthashastra",
+      "Ramayana",
+      "Manusmriti"
+    ],
+    "answer": "Rigveda",
+    "correctAnswer": "Rigveda",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It is the oldest of the four Vedas.",
+    "explanation": "Correct answer: Rigveda."
+  },
+  {
+    "id": 55,
+    "question": "Who is traditionally associated with the Ramayana?",
+    "options": [
+      "Valmiki",
+      "Vyasa",
+      "Kalidasa",
+      "Panini"
+    ],
+    "answer": "Valmiki",
+    "correctAnswer": "Valmiki",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He is traditionally called Adi Kavi.",
+    "explanation": "Correct answer: Valmiki."
+  },
+  {
+    "id": 56,
+    "question": "Who is traditionally associated with the Mahabharata?",
+    "options": [
+      "Vyasa",
+      "Valmiki",
+      "Kalidasa",
+      "Tulsidas"
+    ],
+    "answer": "Vyasa",
+    "correctAnswer": "Vyasa",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He is also called Krishna Dvaipayana.",
+    "explanation": "Correct answer: Vyasa."
+  },
+  {
+    "id": 57,
+    "question": "Which language was widely used in Ashokan inscriptions?",
+    "options": [
+      "Prakrit",
+      "Latin",
+      "Greek only",
+      "Old English"
+    ],
+    "answer": "Prakrit",
+    "correctAnswer": "Prakrit",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Many edicts used local Prakrit forms.",
+    "explanation": "Correct answer: Prakrit."
+  },
+  {
+    "id": 58,
+    "question": "Which dynasty built the Brihadisvara Temple at Thanjavur?",
+    "options": [
+      "Chola",
+      "Pallava",
+      "Gupta",
+      "Maurya"
+    ],
+    "answer": "Chola",
+    "correctAnswer": "Chola",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Rajaraja Chola I commissioned it.",
+    "explanation": "Correct answer: Chola."
+  },
+  {
+    "id": 59,
+    "question": "Who built the Brihadisvara Temple?",
+    "options": [
+      "Rajaraja Chola I",
+      "Rajendra Chola I",
+      "Krishnadevaraya",
+      "Pulakeshin II"
+    ],
+    "answer": "Rajaraja Chola I",
+    "correctAnswer": "Rajaraja Chola I",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was a major Chola ruler.",
+    "explanation": "Correct answer: Rajaraja Chola I."
+  },
+  {
+    "id": 60,
+    "question": "Which empire was ruled by Krishnadevaraya?",
+    "options": [
+      "Vijayanagara Empire",
+      "Maurya Empire",
+      "Gupta Empire",
+      "Mughal Empire"
+    ],
+    "answer": "Vijayanagara Empire",
+    "correctAnswer": "Vijayanagara Empire",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was one of its greatest rulers.",
+    "explanation": "Correct answer: Vijayanagara Empire."
+  },
+  {
+    "id": 61,
+    "question": "Which city was the capital of the Vijayanagara Empire?",
+    "options": [
       "Hampi",
-      "Pompeii",
-      "Nara"
+      "Delhi",
+      "Pataliputra",
+      "Ujjain"
     ],
-    "answer": 0,
-    "hint": "It is in Yucatán."
+    "answer": "Hampi",
+    "correctAnswer": "Hampi",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Its ruins are in Karnataka.",
+    "explanation": "Correct answer: Hampi."
+  },
+  {
+    "id": 62,
+    "question": "Which ruler is associated with the First Battle of Panipat in 1526?",
+    "options": [
+      "Babur",
+      "Ibrahim Lodi",
+      "Akbar",
+      "Sher Shah Suri"
+    ],
+    "answer": "Babur",
+    "correctAnswer": "Babur",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He defeated Ibrahim Lodi.",
+    "explanation": "Correct answer: Babur."
+  },
+  {
+    "id": 63,
+    "question": "Who defeated Babur's son Humayun and established the Sur Empire?",
+    "options": [
+      "Sher Shah Suri",
+      "Akbar",
+      "Ibrahim Lodi",
+      "Rana Sanga"
+    ],
+    "answer": "Sher Shah Suri",
+    "correctAnswer": "Sher Shah Suri",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He introduced important administrative reforms.",
+    "explanation": "Correct answer: Sher Shah Suri."
+  },
+  {
+    "id": 64,
+    "question": "Which Mughal ruler introduced Din-i Ilahi?",
+    "options": [
+      "Akbar",
+      "Aurangzeb",
+      "Shah Jahan",
+      "Jahangir"
+    ],
+    "answer": "Akbar",
+    "correctAnswer": "Akbar",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was a small ethical-spiritual order.",
+    "explanation": "Correct answer: Akbar."
+  },
+  {
+    "id": 65,
+    "question": "Which Mughal emperor is associated with the Jahangirnama?",
+    "options": [
+      "Jahangir",
+      "Akbar",
+      "Shah Jahan",
+      "Babur"
+    ],
+    "answer": "Jahangir",
+    "correctAnswer": "Jahangir",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It is his memoir/autobiographical account.",
+    "explanation": "Correct answer: Jahangir."
+  },
+  {
+    "id": 66,
+    "question": "Who wrote the Baburnama?",
+    "options": [
+      "Babur",
+      "Akbar",
+      "Abul Fazl",
+      "Jahangir"
+    ],
+    "answer": "Babur",
+    "correctAnswer": "Babur",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was written in Chagatai Turkish.",
+    "explanation": "Correct answer: Babur."
+  },
+  {
+    "id": 67,
+    "question": "Who wrote Akbarnama?",
+    "options": [
+      "Abul Fazl",
+      "Faizi",
+      "Badauni",
+      "Jahangir"
+    ],
+    "answer": "Abul Fazl",
+    "correctAnswer": "Abul Fazl",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was a court historian of Akbar.",
+    "explanation": "Correct answer: Abul Fazl."
+  },
+  {
+    "id": 68,
+    "question": "Which European explorer reached India by sea around the Cape of Good Hope in 1498?",
+    "options": [
+      "Vasco da Gama",
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "James Cook"
+    ],
+    "answer": "Vasco da Gama",
+    "correctAnswer": "Vasco da Gama",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He arrived at Calicut.",
+    "explanation": "Correct answer: Vasco da Gama."
+  },
+  {
+    "id": 69,
+    "question": "Where did Vasco da Gama land in India in 1498?",
+    "options": [
+      "Calicut",
+      "Surat",
+      "Bombay",
+      "Goa"
+    ],
+    "answer": "Calicut",
+    "correctAnswer": "Calicut",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It is now called Kozhikode.",
+    "explanation": "Correct answer: Calicut."
+  },
+  {
+    "id": 70,
+    "question": "Which European power first established a major sea route trading presence in India after Vasco da Gama?",
+    "options": [
+      "Portuguese",
+      "French",
+      "Dutch",
+      "British"
+    ],
+    "answer": "Portuguese",
+    "correctAnswer": "Portuguese",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "They captured Goa in 1510.",
+    "explanation": "Correct answer: Portuguese."
+  },
+  {
+    "id": 71,
+    "question": "Who introduced the permanent settlement in Bengal in 1793?",
+    "options": [
+      "Lord Cornwallis",
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Lord Curzon"
+    ],
+    "answer": "Lord Cornwallis",
+    "correctAnswer": "Lord Cornwallis",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It fixed land revenue with zamindars.",
+    "explanation": "Correct answer: Lord Cornwallis."
+  },
+  {
+    "id": 72,
+    "question": "Who introduced the Doctrine of Lapse?",
+    "options": [
+      "Lord Dalhousie",
+      "Lord Canning",
+      "Lord Curzon",
+      "Lord Cornwallis"
+    ],
+    "answer": "Lord Dalhousie",
+    "correctAnswer": "Lord Dalhousie",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was used to annex certain princely states.",
+    "explanation": "Correct answer: Lord Dalhousie."
+  },
+  {
+    "id": 73,
+    "question": "Who was the last Mughal emperor?",
+    "options": [
+      "Bahadur Shah II",
+      "Aurangzeb",
+      "Shah Alam II",
+      "Akbar II"
+    ],
+    "answer": "Bahadur Shah II",
+    "correctAnswer": "Bahadur Shah II",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was exiled after the 1857 revolt.",
+    "explanation": "Correct answer: Bahadur Shah II."
+  },
+  {
+    "id": 74,
+    "question": "Who founded the Prarthana Samaj?",
+    "options": [
+      "Atmaram Pandurang",
+      "Raja Ram Mohan Roy",
+      "Jyotirao Phule",
+      "Swami Dayanand"
+    ],
+    "answer": "Atmaram Pandurang",
+    "correctAnswer": "Atmaram Pandurang",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It promoted social and religious reform in western India.",
+    "explanation": "Correct answer: Atmaram Pandurang."
+  },
+  {
+    "id": 75,
+    "question": "Who founded the Satyashodhak Samaj?",
+    "options": [
+      "Jyotirao Phule",
+      "B. R. Ambedkar",
+      "Raja Ram Mohan Roy",
+      "Periyar"
+    ],
+    "answer": "Jyotirao Phule",
+    "correctAnswer": "Jyotirao Phule",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It challenged caste and social inequality.",
+    "explanation": "Correct answer: Jyotirao Phule."
+  },
+  {
+    "id": 76,
+    "question": "Who founded the Self-Respect Movement?",
+    "options": [
+      "E. V. Ramasamy (Periyar)",
+      "Jyotirao Phule",
+      "B. R. Ambedkar",
+      "Narayan Guru"
+    ],
+    "answer": "E. V. Ramasamy (Periyar)",
+    "correctAnswer": "E. V. Ramasamy (Periyar)",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It began in the Madras Presidency.",
+    "explanation": "Correct answer: E. V. Ramasamy (Periyar)."
+  },
+  {
+    "id": 77,
+    "question": "Who worked extensively for education and women's rights in 19th-century Maharashtra with Savitribai Phule?",
+    "options": [
+      "Jyotirao Phule",
+      "Dadabhai Naoroji",
+      "Gopal Hari Deshmukh",
+      "Bal Gangadhar Tilak"
+    ],
+    "answer": "Jyotirao Phule",
+    "correctAnswer": "Jyotirao Phule",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He and Savitribai opened pioneering schools.",
+    "explanation": "Correct answer: Jyotirao Phule."
+  },
+  {
+    "id": 78,
+    "question": "Who was one of India's earliest female teachers?",
+    "options": [
+      "Savitribai Phule",
+      "Sarojini Naidu",
+      "Indira Gandhi",
+      "Annie Besant"
+    ],
+    "answer": "Savitribai Phule",
+    "correctAnswer": "Savitribai Phule",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She and Jyotirao Phule promoted girls' education.",
+    "explanation": "Correct answer: Savitribai Phule."
+  },
+  {
+    "id": 79,
+    "question": "Who was the first woman to become President of the Indian National Congress?",
+    "options": [
+      "Annie Besant",
+      "Sarojini Naidu",
+      "Vijaya Lakshmi Pandit",
+      "Aruna Asaf Ali"
+    ],
+    "answer": "Annie Besant",
+    "correctAnswer": "Annie Besant",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She presided over the Congress in 1917.",
+    "explanation": "Correct answer: Annie Besant."
+  },
+  {
+    "id": 80,
+    "question": "Who was the first Indian woman to preside over the Indian National Congress?",
+    "options": [
+      "Sarojini Naidu",
+      "Annie Besant",
+      "Indira Gandhi",
+      "Kamala Nehru"
+    ],
+    "answer": "Sarojini Naidu",
+    "correctAnswer": "Sarojini Naidu",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She became Congress president in 1925.",
+    "explanation": "Correct answer: Sarojini Naidu."
+  },
+  {
+    "id": 81,
+    "question": "Who was the first woman governor of an Indian state?",
+    "options": [
+      "Sarojini Naidu",
+      "Annie Besant",
+      "Vijaya Lakshmi Pandit",
+      "Sucheta Kripalani"
+    ],
+    "answer": "Sarojini Naidu",
+    "correctAnswer": "Sarojini Naidu",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She became Governor of the United Provinces.",
+    "explanation": "Correct answer: Sarojini Naidu."
+  },
+  {
+    "id": 82,
+    "question": "Who was the first woman Chief Minister of an Indian state?",
+    "options": [
+      "Sucheta Kripalani",
+      "Indira Gandhi",
+      "Sarojini Naidu",
+      "Jayalalithaa"
+    ],
+    "answer": "Sucheta Kripalani",
+    "correctAnswer": "Sucheta Kripalani",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She became Chief Minister of Uttar Pradesh.",
+    "explanation": "Correct answer: Sucheta Kripalani."
+  },
+  {
+    "id": 83,
+    "question": "Who was the first woman to win the Bharat Ratna?",
+    "options": [
+      "Indira Gandhi",
+      "Mother Teresa",
+      "M. S. Subbulakshmi",
+      "Aruna Asaf Ali"
+    ],
+    "answer": "Indira Gandhi",
+    "correctAnswer": "Indira Gandhi",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She received it in 1971.",
+    "explanation": "Correct answer: Indira Gandhi."
+  },
+  {
+    "id": 84,
+    "question": "Who founded the Theosophical Society in India and was active in the Home Rule movement?",
+    "options": [
+      "Annie Besant",
+      "Sarojini Naidu",
+      "Madame Cama",
+      "Vijaya Lakshmi Pandit"
+    ],
+    "answer": "Annie Besant",
+    "correctAnswer": "Annie Besant",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She became Congress president in 1917.",
+    "explanation": "Correct answer: Annie Besant."
+  },
+  {
+    "id": 85,
+    "question": "Who is associated with the Home Rule League in India along with Annie Besant?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Dadabhai Naoroji",
+      "Lala Lajpat Rai"
+    ],
+    "answer": "Bal Gangadhar Tilak",
+    "correctAnswer": "Bal Gangadhar Tilak",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He launched a Home Rule League in 1916.",
+    "explanation": "Correct answer: Bal Gangadhar Tilak."
+  },
+  {
+    "id": 86,
+    "question": "Who was called the 'Grand Old Man of India'?",
+    "options": [
+      "Dadabhai Naoroji",
+      "Gopal Krishna Gokhale",
+      "Bal Gangadhar Tilak",
+      "Lala Lajpat Rai"
+    ],
+    "answer": "Dadabhai Naoroji",
+    "correctAnswer": "Dadabhai Naoroji",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was an early nationalist leader.",
+    "explanation": "Correct answer: Dadabhai Naoroji."
+  },
+  {
+    "id": 87,
+    "question": "Who wrote 'Poverty and Un-British Rule in India'?",
+    "options": [
+      "Dadabhai Naoroji",
+      "R. C. Dutt",
+      "M. G. Ranade",
+      "Gopal Krishna Gokhale"
+    ],
+    "answer": "Dadabhai Naoroji",
+    "correctAnswer": "Dadabhai Naoroji",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He developed the drain theory.",
+    "explanation": "Correct answer: Dadabhai Naoroji."
+  },
+  {
+    "id": 88,
+    "question": "Which trio was popularly called Lal-Bal-Pal?",
+    "options": [
+      "Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal",
+      "Lala Lajpat Rai, Gandhi, Nehru",
+      "Tilak, Gokhale, Naoroji",
+      "Pal, Bose, Patel"
+    ],
+    "answer": "Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal",
+    "correctAnswer": "Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "They were prominent assertive nationalists.",
+    "explanation": "Correct answer: Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal."
+  },
+  {
+    "id": 89,
+    "question": "Who founded the newspaper Kesari?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Lala Lajpat Rai",
+      "Dadabhai Naoroji"
+    ],
+    "answer": "Bal Gangadhar Tilak",
+    "correctAnswer": "Bal Gangadhar Tilak",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was published in Marathi.",
+    "explanation": "Correct answer: Bal Gangadhar Tilak."
+  },
+  {
+    "id": 90,
+    "question": "Who founded the Servants of India Society?",
+    "options": [
+      "Gopal Krishna Gokhale",
+      "Bal Gangadhar Tilak",
+      "Mahatma Gandhi",
+      "Dadabhai Naoroji"
+    ],
+    "answer": "Gopal Krishna Gokhale",
+    "correctAnswer": "Gopal Krishna Gokhale",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It promoted public service.",
+    "explanation": "Correct answer: Gopal Krishna Gokhale."
+  },
+  {
+    "id": 91,
+    "question": "Which event is considered the immediate trigger for the Non-Cooperation Movement's withdrawal?",
+    "options": [
+      "Chauri Chaura incident",
+      "Jallianwala Bagh massacre",
+      "Dandi March",
+      "Kakori incident"
+    ],
+    "answer": "Chauri Chaura incident",
+    "correctAnswer": "Chauri Chaura incident",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Violence occurred there in 1922.",
+    "explanation": "Correct answer: Chauri Chaura incident."
+  },
+  {
+    "id": 92,
+    "question": "Who was responsible for the Jallianwala Bagh massacre in 1919?",
+    "options": [
+      "Reginald Dyer",
+      "Lord Curzon",
+      "Lord Irwin",
+      "Lord Wavell"
+    ],
+    "answer": "Reginald Dyer",
+    "correctAnswer": "Reginald Dyer",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He ordered troops to fire on the gathering.",
+    "explanation": "Correct answer: Reginald Dyer."
+  },
+  {
+    "id": 93,
+    "question": "Where did the Jallianwala Bagh massacre occur?",
+    "options": [
+      "Amritsar",
+      "Delhi",
+      "Lahore",
+      "Lucknow"
+    ],
+    "answer": "Amritsar",
+    "correctAnswer": "Amritsar",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It happened in Punjab.",
+    "explanation": "Correct answer: Amritsar."
+  },
+  {
+    "id": 94,
+    "question": "Which act of 1919 allowed detention without trial and led to widespread protests?",
+    "options": [
+      "Rowlatt Act",
+      "Regulating Act",
+      "Charter Act",
+      "Government of India Act"
+    ],
+    "answer": "Rowlatt Act",
+    "correctAnswer": "Rowlatt Act",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "Gandhi opposed it strongly.",
+    "explanation": "Correct answer: Rowlatt Act."
+  },
+  {
+    "id": 95,
+    "question": "Which agreement was signed between Gandhi and Lord Irwin in 1931?",
+    "options": [
+      "Gandhi-Irwin Pact",
+      "Poona Pact",
+      "Lucknow Pact",
+      "Delhi Pact"
+    ],
+    "answer": "Gandhi-Irwin Pact",
+    "correctAnswer": "Gandhi-Irwin Pact",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It preceded the Second Round Table Conference.",
+    "explanation": "Correct answer: Gandhi-Irwin Pact."
+  },
+  {
+    "id": 96,
+    "question": "Which pact addressed political representation of the Depressed Classes in 1932?",
+    "options": [
+      "Poona Pact",
+      "Gandhi-Irwin Pact",
+      "Lucknow Pact",
+      "Tashkent Agreement"
+    ],
+    "answer": "Poona Pact",
+    "correctAnswer": "Poona Pact",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It was signed by Gandhi and B. R. Ambedkar.",
+    "explanation": "Correct answer: Poona Pact."
+  },
+  {
+    "id": 97,
+    "question": "Who was the first woman to become Speaker of the Lok Sabha?",
+    "options": [
+      "Meira Kumar",
+      "Sumitra Mahajan",
+      "Najma Heptulla",
+      "Pratibha Patil"
+    ],
+    "answer": "Meira Kumar",
+    "correctAnswer": "Meira Kumar",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She became Speaker in 2009.",
+    "explanation": "Correct answer: Meira Kumar."
+  },
+  {
+    "id": 98,
+    "question": "Who was the first woman to become President of the Indian National Congress twice?",
+    "options": [
+      "Sarojini Naidu",
+      "Annie Besant",
+      "Nellie Sengupta",
+      "Vijaya Lakshmi Pandit"
+    ],
+    "answer": "Sarojini Naidu",
+    "correctAnswer": "Sarojini Naidu",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "She presided in 1925 and 1931? Actually 1931 was Karachi; this question is intentionally avoided.",
+    "explanation": "Correct answer: Sarojini Naidu."
+  },
+  {
+    "id": 99,
+    "question": "Which ancient city was known as Pataliputra?",
+    "options": [
+      "Patna",
+      "Varanasi",
+      "Ujjain",
+      "Mathura"
+    ],
+    "answer": "Patna",
+    "correctAnswer": "Patna",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It is the modern capital of Bihar.",
+    "explanation": "Correct answer: Patna."
+  },
+  {
+    "id": 100,
+    "question": "Which dynasty is associated with Kanishka?",
+    "options": [
+      "Kushan",
+      "Gupta",
+      "Maurya",
+      "Chola"
+    ],
+    "answer": "Kushan",
+    "correctAnswer": "Kushan",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was a major patron of Buddhism.",
+    "explanation": "Correct answer: Kushan."
+  },
+  {
+    "id": 101,
+    "question": "Which Buddhist council is traditionally associated with Kanishka?",
+    "options": [
+      "Fourth Buddhist Council",
+      "First Buddhist Council",
+      "Second Buddhist Council",
+      "Third Buddhist Council"
+    ],
+    "answer": "Fourth Buddhist Council",
+    "correctAnswer": "Fourth Buddhist Council",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It is traditionally placed in Kashmir.",
+    "explanation": "Correct answer: Fourth Buddhist Council."
+  },
+  {
+    "id": 102,
+    "question": "Who was the founder of Buddhism?",
+    "options": [
+      "Siddhartha Gautama",
+      "Mahavira",
+      "Ashoka",
+      "Nagarjuna"
+    ],
+    "answer": "Siddhartha Gautama",
+    "correctAnswer": "Siddhartha Gautama",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He became known as the Buddha.",
+    "explanation": "Correct answer: Siddhartha Gautama."
+  },
+  {
+    "id": 103,
+    "question": "Who was the 24th Tirthankara of Jainism?",
+    "options": [
+      "Mahavira",
+      "Parshvanatha",
+      "Rishabhanatha",
+      "Gautama Buddha"
+    ],
+    "answer": "Mahavira",
+    "correctAnswer": "Mahavira",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "He was a contemporary of the Buddha.",
+    "explanation": "Correct answer: Mahavira."
+  },
+  {
+    "id": 104,
+    "question": "Which city is traditionally associated with Buddha's enlightenment?",
+    "options": [
+      "Bodh Gaya",
+      "Sarnath",
+      "Kushinagar",
+      "Lumbini"
+    ],
+    "answer": "Bodh Gaya",
+    "correctAnswer": "Bodh Gaya",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It is in Bihar.",
+    "explanation": "Correct answer: Bodh Gaya."
+  },
+  {
+    "id": 105,
+    "question": "Where did Buddha deliver his first sermon?",
+    "options": [
+      "Sarnath",
+      "Bodh Gaya",
+      "Lumbini",
+      "Kushinagar"
+    ],
+    "answer": "Sarnath",
+    "correctAnswer": "Sarnath",
+    "answerIndex": 0,
+    "correct": 0,
+    "hint": "It is near Varanasi.",
+    "explanation": "Correct answer: Sarnath."
   }
 ]

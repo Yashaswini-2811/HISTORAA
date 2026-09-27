@@ -1,1 +1,122 @@
-{"India":{},"Egypt":{},"Greece":{},"China":{},"Rome":{},"Maya":{},"Japan":{}}
+[
+  {
+    "id": "egypt",
+    "name": "Ancient Egypt",
+    "region": "North Africa",
+    "period": "c. 3100–30 BCE",
+    "capital": "Memphis / Thebes",
+    "facts": [
+      "Nile-based civilization",
+      "Pyramids at Giza",
+      "Hieroglyphic writing"
+    ]
+  },
+  {
+    "id": "mesopotamia",
+    "name": "Mesopotamia",
+    "region": "West Asia",
+    "period": "c. 3500–539 BCE",
+    "capital": "Uruk / Babylon",
+    "facts": [
+      "Cuneiform writing",
+      "City-states",
+      "Code of Hammurabi"
+    ]
+  },
+  {
+    "id": "indus",
+    "name": "Indus Valley Civilization",
+    "region": "South Asia",
+    "period": "c. 2600–1900 BCE",
+    "capital": "Harappa / Mohenjo-daro",
+    "facts": [
+      "Planned cities",
+      "Drainage systems",
+      "Long-distance trade"
+    ]
+  },
+  {
+    "id": "greece",
+    "name": "Ancient Greece",
+    "region": "Mediterranean",
+    "period": "c. 800–146 BCE",
+    "capital": "Athens / Sparta",
+    "facts": [
+      "City-states",
+      "Philosophy",
+      "Democracy in Athens"
+    ]
+  },
+  {
+    "id": "rome",
+    "name": "Ancient Rome",
+    "region": "Mediterranean",
+    "period": "753 BCE–476 CE",
+    "capital": "Rome",
+    "facts": [
+      "Republic and Empire",
+      "Roman law",
+      "Road networks"
+    ]
+  },
+  {
+    "id": "maurya",
+    "name": "Maurya Empire",
+    "region": "South Asia",
+    "period": "c. 322–185 BCE",
+    "capital": "Pataliputra",
+    "facts": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Rock and pillar edicts"
+    ]
+  },
+  {
+    "id": "gupta",
+    "name": "Gupta Empire",
+    "region": "South Asia",
+    "period": "c. 320–550 CE",
+    "capital": "Pataliputra",
+    "facts": [
+      "Science and mathematics",
+      "Sanskrit literature",
+      "Art and architecture"
+    ]
+  },
+  {
+    "id": "mughal",
+    "name": "Mughal Empire",
+    "region": "South Asia",
+    "period": "1526–1857",
+    "capital": "Agra / Delhi",
+    "facts": [
+      "Babur founded the empire",
+      "Akbar's administration",
+      "Taj Mahal under Shah Jahan"
+    ]
+  },
+  {
+    "id": "vijayanagara",
+    "name": "Vijayanagara Empire",
+    "region": "South India",
+    "period": "1336–1646",
+    "capital": "Hampi",
+    "facts": [
+      "Hampi monuments",
+      "Krishnadevaraya",
+      "Major Deccan trading center"
+    ]
+  },
+  {
+    "id": "maya",
+    "name": "Maya Civilization",
+    "region": "Mesoamerica",
+    "period": "c. 2000 BCE–16th century CE",
+    "capital": "Many city-states",
+    "facts": [
+      "Calendars",
+      "Hieroglyphic writing",
+      "Monumental cities"
+    ]
+  }
+]
