@@ -1,12 +1,99 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HISTORAA — History as an Adventure</title><link rel="stylesheet" href="style.css"></head><body>
-<header><div class="brand">⏳ HISTORAA</div><nav><button onclick="page('home')">Home</button><button onclick="page('map')">🗺️ Map</button><button onclick="page('comics')">📖 Comics</button><button onclick="page('women')">👩 Women</button><button onclick="page('quiz')">🧠 Quiz</button><button onclick="page('brain')">💡 Brain</button><button onclick="page('cards')">🃏 Cards</button><button onclick="page('hunt')">🏃 Treasure Hunt</button></nav><div>⭐ <b id="xp">0</b> XP</div></header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HISTORAA - History Adventure</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>🌍 HISTORAA</h1>
+  <p>Culture • History • Play</p>
+  <nav>
+    <button onclick="showPage('home')">Home</button>
+    <button onclick="showPage('map')">🗺️ Map</button>
+    <button onclick="showPage('quiz')">❓ Quiz</button>
+    <button onclick="showPage('women')">👩 Women</button>
+    <button onclick="showPage('cards')">🃏 Cards</button>
+    <button onclick="showPage('hunt')">🏆 Treasure Hunt</button>
+  </nav>
+</header>
+
 <main>
-<section id="home" class="active"><div class="hero"><div><span class="eyebrow">SMART HACKATHON • HISTORY + CULTURE + PLAY</span><h1>History isn't a textbook.<br><em>It's an adventure.</em></h1><p>Explore 7 civilizations through illustrated comics, a 50-page women’s history book, monuments, maps, cards, 100+ quiz questions, brain teasers and a mobile treasure hunt.</p><button class="gold big" onclick="page('comics')">OPEN THE HISTORY JOURNEY →</button></div><div class="seal">H<br><small>HISTORAA</small></div></div></section>
-<section id="map"><h2>🗺️ Historical World Map</h2><p>Choose a civilization and jump into its comic journey.</p><div class="map" id="mapbox"></div><div class="info" id="info">Choose a glowing place.</div></section>
-<section id="comics"><div class="section-head"><div><h2>📖 100-Page Civilization Comic</h2><p>Every page contains an illustration, historical content and readable story text. Use the arrows to open every page.</p></div><select id="civSelect" onchange="selectCiv(this.value)"></select></div><div class="comic"><img id="comicImg" alt="Historical comic illustration"><div class="comic-copy"><div class="progress"><span id="cp">1</span> / 100</div><h2 id="ct"></h2><p id="cx"></p><div class="fact" id="cifact"></div><div class="comic-actions"><button onclick="comic(-1)">← Previous</button><button class="gold" onclick="comic(1)">Next Page →</button></div><div class="jump"><input id="pageJump" type="number" min="1" max="100" value="1"><button onclick="jumpComic()">Open Page</button></div></div></div></section>
-<section id="women"><h2>👩 50-Page Women’s History Book</h2><p>Illustrated life-story pages, with evidence and reconstruction clearly separated.</p><div class="book"><img id="wpic" alt="Illustrated historical woman"><div><div class="progress" id="wpage">PAGE 1 / 50</div><h2 id="wname"></h2><p id="wstory"></p><div class="fact" id="wfact"></div><button class="gold" onclick="woman(1)">Turn the page →</button></div></div></section>
-<section id="quiz"><h2>🧠 HISTORAA Quiz Arena</h2><p id="quizCount"></p><div class="quiz"><div class="progress" id="qnum"></div><h2 id="q"></h2><div id="answers"></div><div id="feedback"></div><div class="quiz-actions"><button id="hintBtn" onclick="showHint()">💡 Hint</button><button id="nextBtn" class="gold" onclick="nextQ()" disabled>Next Question →</button></div></div></section>
-<section id="brain"><h2>💡 Daily Brain Blast</h2><div class="quiz brain"><p id="bdate"></p><h1 id="bq">FOUR + GET + IT = ?</h1><input id="ba" placeholder="Type your answer"><br><button class="gold" onclick="solveBrain()">Solve Mystery</button> <button onclick="hintBrain()">🔎 Hint</button><div id="bf"></div></div></section>
-<section id="cards"><h2>🃏 Collectible History Cards</h2><div class="grid four" id="cardsbox"></div></section>
-<section id="hunt"><h2>🏃 Lost Temple Treasure Hunt</h2><p>Designed for mobile: use the large touch buttons. Collect artifacts and avoid obstacles.</p><div class="game"><canvas id="canvas" width="900" height="400"></canvas><div class="mobile-controls"><button class="game-btn" id="leftBtn">◀</button><button class="game-btn jump" id="jumpBtn">⬆ JUMP</button><button class="game-btn" id="rightBtn">▶</button></div><div class="game-actions"><button class="gold" onclick="startGame()">▶ Start / Restart</button><button onclick="pauseGame()">⏸ Pause</button></div><p class="game-help">Phone: hold ◀ / ▶ and tap or hold JUMP. Desktop: ← → Space/↑.</p></div></section>
-</main><footer>HISTORAA • Free GitHub Pages • Student Innovation Challenge</footer><script src="script.js"></script></body></html>
+<section id="home" class="page active">
+  <div class="hero">
+    <p class="tag">SMART HACKATHON • CULTURE • HISTORY • PLAY</p>
+    <h2>Explore the story of our world.</h2>
+    <p>Discover ancient civilizations, remarkable women, famous monuments and fun history challenges.</p>
+    <button class="gold" onclick="showPage('map')">START YOUR JOURNEY →</button>
+  </div>
+  <div class="grid">
+    <article>🗺️ <h3>Explore</h3><p>Discover civilizations and famous places.</p></article>
+    <article>📖 <h3>Read</h3><p>Learn history through short stories.</p></article>
+    <article>🧠 <h3>Play</h3><p>Test yourself with quizzes and puzzles.</p></article>
+    <article>🏺 <h3>Collect</h3><p>Collect historical cards.</p></article>
+  </div>
+</section>
+
+<section id="map" class="page">
+  <h2>🗺️ Historical World Map</h2>
+  <p>Choose a civilization:</p>
+  <div class="civilizations">
+    <button onclick="civilization('India')">🇮🇳 India</button>
+    <button onclick="civilization('Egypt')">🇪🇬 Egypt</button>
+    <button onclick="civilization('Greece')">🇬🇷 Greece</button>
+    <button onclick="civilization('China')">🇨🇳 China</button>
+    <button onclick="civilization('Rome')">🏛️ Rome</button>
+    <button onclick="civilization('Maya')">🌎 Maya</button>
+    <button onclick="civilization('Japan')">🇯🇵 Japan</button>
+  </div>
+  <div id="civilizationInfo" class="info">Click a civilization to learn something interesting.</div>
+</section>
+
+<section id="quiz" class="page">
+  <h2>❓ Quiz Arena</h2>
+  <div class="quiz-box">
+    <p id="question"></p>
+    <div id="answers"></div>
+    <p id="feedback"></p>
+    <button class="gold" onclick="nextQuestion()">Next Question</button>
+    <p>Score: <b id="score">0</b></p>
+  </div>
+</section>
+
+<section id="women" class="page">
+  <h2>👩 Women Who Changed History</h2>
+  <div class="info">
+    <h3 id="womanName"></h3>
+    <p id="womanText"></p>
+    <button class="gold" onclick="nextWoman()">Next Story</button>
+  </div>
+</section>
+
+<section id="cards" class="page">
+  <h2>🃏 Collectible History Cards</h2>
+  <div id="cardsBox" class="grid"></div>
+</section>
+
+<section id="hunt" class="page">
+  <h2>🏆 Treasure Hunt</h2>
+  <div class="game">
+    <p>Find the hidden treasure!</p>
+    <div id="treasureArea">
+      <button onclick="findTreasure(1)">🏺</button>
+      <button onclick="findTreasure(2)">🗿</button>
+      <button onclick="findTreasure(3)">📜</button>
+      <button onclick="findTreasure(4)">💎</button>
+      <button onclick="findTreasure(5)">🏛️</button>
+    </div>
+    <p id="treasureMessage">Choose one!</p>
+    <button class="gold" onclick="resetHunt()">Restart Hunt</button>
+  </div>
+</section>
+</main>
+
+<footer>HISTORAA • Student Innovation Prototype • GitHub Pages Ready</footer>
+<script src="script.js"></script>
+</body>
+</html>
