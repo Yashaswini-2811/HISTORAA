@@ -1,1 +1,452 @@
-[]
+[
+  {
+    "page": 1,
+    "woman": "Rani Lakshmibai",
+    "country": "India",
+    "years": "1828–1858",
+    "stage": "Birth and family",
+    "text": "Rani Lakshmibai is remembered in India for this part of her life story: birth and family. Queen of Jhansi and a major figure in the 1857 uprising. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_1.svg"
+  },
+  {
+    "page": 2,
+    "woman": "Hatshepsut",
+    "country": "Egypt",
+    "years": "c. 1507–1458 BCE",
+    "stage": "Childhood and learning",
+    "text": "Hatshepsut is remembered in Egypt for this part of her life story: childhood and learning. Pharaoh who sponsored major building projects and trade expeditions. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_2.svg"
+  },
+  {
+    "page": 3,
+    "woman": "Aspasia",
+    "country": "Greece",
+    "years": "5th century BCE",
+    "stage": "A world around her",
+    "text": "Aspasia is remembered in Greece for this part of her life story: a world around her. A woman associated with intellectual life in classical Athens, known through ancient sources. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_3.svg"
+  },
+  {
+    "page": 4,
+    "woman": "Wu Zetian",
+    "country": "China",
+    "years": "624–705",
+    "stage": "A turning point",
+    "text": "Wu Zetian is remembered in China for this part of her life story: a turning point. The only woman to rule China as emperor in her own right in the traditional imperial chronology. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_4.svg"
+  },
+  {
+    "page": 5,
+    "woman": "Livia Drusilla",
+    "country": "Rome",
+    "years": "58 BCE–29 CE",
+    "stage": "Entering public life",
+    "text": "Livia Drusilla is remembered in Rome for this part of her life story: entering public life. Influential member of the early Roman imperial household. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_5.svg"
+  },
+  {
+    "page": 6,
+    "woman": "Lady Six Sky",
+    "country": "Maya",
+    "years": "7th century CE",
+    "stage": "Challenges and choices",
+    "text": "Lady Six Sky is remembered in Maya for this part of her life story: challenges and choices. A powerful Maya ruler known from inscriptions at Naranjo. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_6.svg"
+  },
+  {
+    "page": 7,
+    "woman": "Murasaki Shikibu",
+    "country": "Japan",
+    "years": "c. 973–c. 1030",
+    "stage": "Major achievement",
+    "text": "Murasaki Shikibu is remembered in Japan for this part of her life story: major achievement. Court writer traditionally associated with The Tale of Genji. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_7.svg"
+  },
+  {
+    "page": 8,
+    "woman": "Rani Lakshmibai",
+    "country": "India",
+    "years": "1828–1858",
+    "stage": "Leadership and influence",
+    "text": "Rani Lakshmibai is remembered in India for this part of her life story: leadership and influence. Queen of Jhansi and a major figure in the 1857 uprising. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_1.svg"
+  },
+  {
+    "page": 9,
+    "woman": "Hatshepsut",
+    "country": "Egypt",
+    "years": "c. 1507–1458 BCE",
+    "stage": "People around her",
+    "text": "Hatshepsut is remembered in Egypt for this part of her life story: people around her. Pharaoh who sponsored major building projects and trade expeditions. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_2.svg"
+  },
+  {
+    "page": 10,
+    "woman": "Aspasia",
+    "country": "Greece",
+    "years": "5th century BCE",
+    "stage": "A difficult moment",
+    "text": "Aspasia is remembered in Greece for this part of her life story: a difficult moment. A woman associated with intellectual life in classical Athens, known through ancient sources. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_3.svg"
+  },
+  {
+    "page": 11,
+    "woman": "Wu Zetian",
+    "country": "China",
+    "years": "624–705",
+    "stage": "A decision",
+    "text": "Wu Zetian is remembered in China for this part of her life story: a decision. The only woman to rule China as emperor in her own right in the traditional imperial chronology. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_4.svg"
+  },
+  {
+    "page": 12,
+    "woman": "Livia Drusilla",
+    "country": "Rome",
+    "years": "58 BCE–29 CE",
+    "stage": "Work and legacy",
+    "text": "Livia Drusilla is remembered in Rome for this part of her life story: work and legacy. Influential member of the early Roman imperial household. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_5.svg"
+  },
+  {
+    "page": 13,
+    "woman": "Lady Six Sky",
+    "country": "Maya",
+    "years": "7th century CE",
+    "stage": "Historical evidence",
+    "text": "Lady Six Sky is remembered in Maya for this part of her life story: historical evidence. A powerful Maya ruler known from inscriptions at Naranjo. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_6.svg"
+  },
+  {
+    "page": 14,
+    "woman": "Murasaki Shikibu",
+    "country": "Japan",
+    "years": "c. 973–c. 1030",
+    "stage": "How later generations remembered her",
+    "text": "Murasaki Shikibu is remembered in Japan for this part of her life story: how later generations remembered her. Court writer traditionally associated with The Tale of Genji. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_7.svg"
+  },
+  {
+    "page": 15,
+    "woman": "Rani Lakshmibai",
+    "country": "India",
+    "years": "1828–1858",
+    "stage": "Why her story matters",
+    "text": "Rani Lakshmibai is remembered in India for this part of her life story: why her story matters. Queen of Jhansi and a major figure in the 1857 uprising. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_1.svg"
+  },
+  {
+    "page": 16,
+    "woman": "Hatshepsut",
+    "country": "Egypt",
+    "years": "c. 1507–1458 BCE",
+    "stage": "Birth and family",
+    "text": "Hatshepsut is remembered in Egypt for this part of her life story: birth and family. Pharaoh who sponsored major building projects and trade expeditions. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_2.svg"
+  },
+  {
+    "page": 17,
+    "woman": "Aspasia",
+    "country": "Greece",
+    "years": "5th century BCE",
+    "stage": "Childhood and learning",
+    "text": "Aspasia is remembered in Greece for this part of her life story: childhood and learning. A woman associated with intellectual life in classical Athens, known through ancient sources. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_3.svg"
+  },
+  {
+    "page": 18,
+    "woman": "Wu Zetian",
+    "country": "China",
+    "years": "624–705",
+    "stage": "A world around her",
+    "text": "Wu Zetian is remembered in China for this part of her life story: a world around her. The only woman to rule China as emperor in her own right in the traditional imperial chronology. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_4.svg"
+  },
+  {
+    "page": 19,
+    "woman": "Livia Drusilla",
+    "country": "Rome",
+    "years": "58 BCE–29 CE",
+    "stage": "A turning point",
+    "text": "Livia Drusilla is remembered in Rome for this part of her life story: a turning point. Influential member of the early Roman imperial household. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_5.svg"
+  },
+  {
+    "page": 20,
+    "woman": "Lady Six Sky",
+    "country": "Maya",
+    "years": "7th century CE",
+    "stage": "Entering public life",
+    "text": "Lady Six Sky is remembered in Maya for this part of her life story: entering public life. A powerful Maya ruler known from inscriptions at Naranjo. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_6.svg"
+  },
+  {
+    "page": 21,
+    "woman": "Murasaki Shikibu",
+    "country": "Japan",
+    "years": "c. 973–c. 1030",
+    "stage": "Challenges and choices",
+    "text": "Murasaki Shikibu is remembered in Japan for this part of her life story: challenges and choices. Court writer traditionally associated with The Tale of Genji. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_7.svg"
+  },
+  {
+    "page": 22,
+    "woman": "Rani Lakshmibai",
+    "country": "India",
+    "years": "1828–1858",
+    "stage": "Major achievement",
+    "text": "Rani Lakshmibai is remembered in India for this part of her life story: major achievement. Queen of Jhansi and a major figure in the 1857 uprising. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_1.svg"
+  },
+  {
+    "page": 23,
+    "woman": "Hatshepsut",
+    "country": "Egypt",
+    "years": "c. 1507–1458 BCE",
+    "stage": "Leadership and influence",
+    "text": "Hatshepsut is remembered in Egypt for this part of her life story: leadership and influence. Pharaoh who sponsored major building projects and trade expeditions. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_2.svg"
+  },
+  {
+    "page": 24,
+    "woman": "Aspasia",
+    "country": "Greece",
+    "years": "5th century BCE",
+    "stage": "People around her",
+    "text": "Aspasia is remembered in Greece for this part of her life story: people around her. A woman associated with intellectual life in classical Athens, known through ancient sources. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_3.svg"
+  },
+  {
+    "page": 25,
+    "woman": "Wu Zetian",
+    "country": "China",
+    "years": "624–705",
+    "stage": "A difficult moment",
+    "text": "Wu Zetian is remembered in China for this part of her life story: a difficult moment. The only woman to rule China as emperor in her own right in the traditional imperial chronology. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_4.svg"
+  },
+  {
+    "page": 26,
+    "woman": "Livia Drusilla",
+    "country": "Rome",
+    "years": "58 BCE–29 CE",
+    "stage": "A decision",
+    "text": "Livia Drusilla is remembered in Rome for this part of her life story: a decision. Influential member of the early Roman imperial household. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_5.svg"
+  },
+  {
+    "page": 27,
+    "woman": "Lady Six Sky",
+    "country": "Maya",
+    "years": "7th century CE",
+    "stage": "Work and legacy",
+    "text": "Lady Six Sky is remembered in Maya for this part of her life story: work and legacy. A powerful Maya ruler known from inscriptions at Naranjo. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_6.svg"
+  },
+  {
+    "page": 28,
+    "woman": "Murasaki Shikibu",
+    "country": "Japan",
+    "years": "c. 973–c. 1030",
+    "stage": "Historical evidence",
+    "text": "Murasaki Shikibu is remembered in Japan for this part of her life story: historical evidence. Court writer traditionally associated with The Tale of Genji. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_7.svg"
+  },
+  {
+    "page": 29,
+    "woman": "Rani Lakshmibai",
+    "country": "India",
+    "years": "1828–1858",
+    "stage": "How later generations remembered her",
+    "text": "Rani Lakshmibai is remembered in India for this part of her life story: how later generations remembered her. Queen of Jhansi and a major figure in the 1857 uprising. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_1.svg"
+  },
+  {
+    "page": 30,
+    "woman": "Hatshepsut",
+    "country": "Egypt",
+    "years": "c. 1507–1458 BCE",
+    "stage": "Why her story matters",
+    "text": "Hatshepsut is remembered in Egypt for this part of her life story: why her story matters. Pharaoh who sponsored major building projects and trade expeditions. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_2.svg"
+  },
+  {
+    "page": 31,
+    "woman": "Aspasia",
+    "country": "Greece",
+    "years": "5th century BCE",
+    "stage": "Birth and family",
+    "text": "Aspasia is remembered in Greece for this part of her life story: birth and family. A woman associated with intellectual life in classical Athens, known through ancient sources. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_3.svg"
+  },
+  {
+    "page": 32,
+    "woman": "Wu Zetian",
+    "country": "China",
+    "years": "624–705",
+    "stage": "Childhood and learning",
+    "text": "Wu Zetian is remembered in China for this part of her life story: childhood and learning. The only woman to rule China as emperor in her own right in the traditional imperial chronology. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_4.svg"
+  },
+  {
+    "page": 33,
+    "woman": "Livia Drusilla",
+    "country": "Rome",
+    "years": "58 BCE–29 CE",
+    "stage": "A world around her",
+    "text": "Livia Drusilla is remembered in Rome for this part of her life story: a world around her. Influential member of the early Roman imperial household. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_5.svg"
+  },
+  {
+    "page": 34,
+    "woman": "Lady Six Sky",
+    "country": "Maya",
+    "years": "7th century CE",
+    "stage": "A turning point",
+    "text": "Lady Six Sky is remembered in Maya for this part of her life story: a turning point. A powerful Maya ruler known from inscriptions at Naranjo. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_6.svg"
+  },
+  {
+    "page": 35,
+    "woman": "Murasaki Shikibu",
+    "country": "Japan",
+    "years": "c. 973–c. 1030",
+    "stage": "Entering public life",
+    "text": "Murasaki Shikibu is remembered in Japan for this part of her life story: entering public life. Court writer traditionally associated with The Tale of Genji. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_7.svg"
+  },
+  {
+    "page": 36,
+    "woman": "Rani Lakshmibai",
+    "country": "India",
+    "years": "1828–1858",
+    "stage": "Challenges and choices",
+    "text": "Rani Lakshmibai is remembered in India for this part of her life story: challenges and choices. Queen of Jhansi and a major figure in the 1857 uprising. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_1.svg"
+  },
+  {
+    "page": 37,
+    "woman": "Hatshepsut",
+    "country": "Egypt",
+    "years": "c. 1507–1458 BCE",
+    "stage": "Major achievement",
+    "text": "Hatshepsut is remembered in Egypt for this part of her life story: major achievement. Pharaoh who sponsored major building projects and trade expeditions. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_2.svg"
+  },
+  {
+    "page": 38,
+    "woman": "Aspasia",
+    "country": "Greece",
+    "years": "5th century BCE",
+    "stage": "Leadership and influence",
+    "text": "Aspasia is remembered in Greece for this part of her life story: leadership and influence. A woman associated with intellectual life in classical Athens, known through ancient sources. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_3.svg"
+  },
+  {
+    "page": 39,
+    "woman": "Wu Zetian",
+    "country": "China",
+    "years": "624–705",
+    "stage": "People around her",
+    "text": "Wu Zetian is remembered in China for this part of her life story: people around her. The only woman to rule China as emperor in her own right in the traditional imperial chronology. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_4.svg"
+  },
+  {
+    "page": 40,
+    "woman": "Livia Drusilla",
+    "country": "Rome",
+    "years": "58 BCE–29 CE",
+    "stage": "A difficult moment",
+    "text": "Livia Drusilla is remembered in Rome for this part of her life story: a difficult moment. Influential member of the early Roman imperial household. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_5.svg"
+  },
+  {
+    "page": 41,
+    "woman": "Lady Six Sky",
+    "country": "Maya",
+    "years": "7th century CE",
+    "stage": "A decision",
+    "text": "Lady Six Sky is remembered in Maya for this part of her life story: a decision. A powerful Maya ruler known from inscriptions at Naranjo. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_6.svg"
+  },
+  {
+    "page": 42,
+    "woman": "Murasaki Shikibu",
+    "country": "Japan",
+    "years": "c. 973–c. 1030",
+    "stage": "Work and legacy",
+    "text": "Murasaki Shikibu is remembered in Japan for this part of her life story: work and legacy. Court writer traditionally associated with The Tale of Genji. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_7.svg"
+  },
+  {
+    "page": 43,
+    "woman": "Rani Lakshmibai",
+    "country": "India",
+    "years": "1828–1858",
+    "stage": "Historical evidence",
+    "text": "Rani Lakshmibai is remembered in India for this part of her life story: historical evidence. Queen of Jhansi and a major figure in the 1857 uprising. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_1.svg"
+  },
+  {
+    "page": 44,
+    "woman": "Hatshepsut",
+    "country": "Egypt",
+    "years": "c. 1507–1458 BCE",
+    "stage": "How later generations remembered her",
+    "text": "Hatshepsut is remembered in Egypt for this part of her life story: how later generations remembered her. Pharaoh who sponsored major building projects and trade expeditions. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_2.svg"
+  },
+  {
+    "page": 45,
+    "woman": "Aspasia",
+    "country": "Greece",
+    "years": "5th century BCE",
+    "stage": "Why her story matters",
+    "text": "Aspasia is remembered in Greece for this part of her life story: why her story matters. A woman associated with intellectual life in classical Athens, known through ancient sources. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_3.svg"
+  },
+  {
+    "page": 46,
+    "woman": "Wu Zetian",
+    "country": "China",
+    "years": "624–705",
+    "stage": "Birth and family",
+    "text": "Wu Zetian is remembered in China for this part of her life story: birth and family. The only woman to rule China as emperor in her own right in the traditional imperial chronology. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_4.svg"
+  },
+  {
+    "page": 47,
+    "woman": "Livia Drusilla",
+    "country": "Rome",
+    "years": "58 BCE–29 CE",
+    "stage": "Childhood and learning",
+    "text": "Livia Drusilla is remembered in Rome for this part of her life story: childhood and learning. Influential member of the early Roman imperial household. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_5.svg"
+  },
+  {
+    "page": 48,
+    "woman": "Lady Six Sky",
+    "country": "Maya",
+    "years": "7th century CE",
+    "stage": "A world around her",
+    "text": "Lady Six Sky is remembered in Maya for this part of her life story: a world around her. A powerful Maya ruler known from inscriptions at Naranjo. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_6.svg"
+  },
+  {
+    "page": 49,
+    "woman": "Murasaki Shikibu",
+    "country": "Japan",
+    "years": "c. 973–c. 1030",
+    "stage": "A turning point",
+    "text": "Murasaki Shikibu is remembered in Japan for this part of her life story: a turning point. Court writer traditionally associated with The Tale of Genji. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_7.svg"
+  },
+  {
+    "page": 50,
+    "woman": "Rani Lakshmibai",
+    "country": "India",
+    "years": "1828–1858",
+    "stage": "Entering public life",
+    "text": "Rani Lakshmibai is remembered in India for this part of her life story: entering public life. Queen of Jhansi and a major figure in the 1857 uprising. This page distinguishes documented history from reconstruction: details that are uncertain are presented as context, not invented fact.",
+    "image": "images/women_1.svg"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "civ": "India",
+    "pageTitle": "River valleys become home",
+    "text": "Early communities grow around the Indus and its tributaries, using fertile land and careful water management.",
+    "image": "images/india_01.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Planned streets",
+    "text": "Cities such as Mohenjo-daro show organized streets, brick buildings and sophisticated drainage.",
+    "image": "images/india_02.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Craft and trade",
+    "text": "Beads, pottery, seals and metals reveal skilled craftspeople and wide networks of exchange.",
+    "image": "images/india_03.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Symbols on seals",
+    "text": "Short inscriptions on seals survive, reminding us how much of the script remains undeciphered.",
+    "image": "images/india_04.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "New traditions",
+    "text": "Across northern India, new languages, rituals and social traditions develop over centuries.",
+    "image": "images/india_05.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Mahajanapadas",
+    "text": "Powerful states emerge, compete and trade as towns and kingdoms expand.",
+    "image": "images/india_06.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Buddha’s path",
+    "text": "Siddhartha Gautama teaches a path centered on understanding suffering, conduct and liberation.",
+    "image": "images/india_07.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Ashoka",
+    "text": "After the Kalinga war, Ashoka promotes Buddhist teachings and messages of ethical conduct.",
+    "image": "images/india_08.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Learning at Nalanda",
+    "text": "Nalanda becomes a renowned center of learning, attracting students and scholars from afar.",
+    "image": "images/india_09.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Gupta age",
+    "text": "Mathematics, astronomy, literature and arts flourish during the Gupta period.",
+    "image": "images/india_10.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Chola seas",
+    "text": "Chola rulers build strong institutions and maritime connections across the Indian Ocean.",
+    "image": "images/india_11.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Hampi rises",
+    "text": "The Vijayanagara capital at Hampi becomes a major center of trade, temples and culture.",
+    "image": "images/india_12.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Mughal architecture",
+    "text": "Mughal patrons support gardens, painting, literature and monumental architecture.",
+    "image": "images/india_13.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "Taj Mahal",
+    "text": "The Taj Mahal is built in Agra in the seventeenth century as a monumental mausoleum.",
+    "image": "images/india_14.svg"
+  },
+  {
+    "civ": "India",
+    "pageTitle": "A living heritage",
+    "text": "India’s history is not one straight line; it is a layered story of many communities, languages and traditions.",
+    "image": "images/india_15.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "The Nile",
+    "text": "The Nile’s predictable flooding supports farming and settlement in ancient Egypt.",
+    "image": "images/egypt_01.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Early kingdoms",
+    "text": "Upper and Lower Egypt become politically unified in the early dynastic period.",
+    "image": "images/egypt_02.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Pyramids",
+    "text": "The Old Kingdom sees monumental pyramid building, including the great pyramid complex at Giza.",
+    "image": "images/egypt_03.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Writing",
+    "text": "Hieroglyphs record names, offerings, administration and stories on stone and papyrus.",
+    "image": "images/egypt_04.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Temple life",
+    "text": "Temples serve as religious centers, economic institutions and places of ritual.",
+    "image": "images/egypt_05.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Hatshepsut",
+    "text": "Hatshepsut rules as pharaoh and sponsors major building projects and a famous trading expedition.",
+    "image": "images/egypt_06.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Valley of the Kings",
+    "text": "Later royal burials move into rock-cut tombs near Thebes.",
+    "image": "images/egypt_07.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Ramesses II",
+    "text": "Ramesses II becomes one of Egypt’s best-known pharaohs and leaves many monumental inscriptions.",
+    "image": "images/egypt_08.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Everyday Egypt",
+    "text": "Farmers, artisans, scribes, merchants and officials all help society function.",
+    "image": "images/egypt_09.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Alexandria",
+    "text": "The city founded by Alexander becomes a major center of scholarship and Mediterranean trade.",
+    "image": "images/egypt_10.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Cleopatra",
+    "text": "Cleopatra VII rules during the final Ptolemaic dynasty and is remembered for diplomacy and politics.",
+    "image": "images/egypt_11.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Roman Egypt",
+    "text": "Egypt becomes a province of Rome while local religious traditions continue.",
+    "image": "images/egypt_12.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Nile traditions",
+    "text": "Calendars, farming cycles and festivals remain tied closely to the river.",
+    "image": "images/egypt_13.svg"
+  },
+  {
+    "civ": "Egypt",
+    "pageTitle": "Archaeology",
+    "text": "Modern archaeology uses inscriptions, objects, architecture and environmental evidence to reconstruct the past.",
+    "image": "images/egypt_14.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Aegean worlds",
+    "text": "Minoan and Mycenaean societies shape early Aegean history.",
+    "image": "images/greece_01.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "The polis",
+    "text": "Independent city-states develop different political systems and local identities.",
+    "image": "images/greece_02.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Athens",
+    "text": "Athens experiments with forms of citizen participation that influence later ideas of democracy.",
+    "image": "images/greece_03.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Sparta",
+    "text": "Sparta develops a distinctive military-focused social system.",
+    "image": "images/greece_04.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Olympia",
+    "text": "The Olympic festival becomes a major religious and athletic gathering.",
+    "image": "images/greece_05.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Delphi",
+    "text": "The sanctuary at Delphi becomes famous for the oracle of Apollo.",
+    "image": "images/greece_06.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "The theatre",
+    "text": "Greek drama develops tragedy and comedy, performed for large public audiences.",
+    "image": "images/greece_07.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Socrates",
+    "text": "Socrates is remembered for questioning assumptions and examining ethical life.",
+    "image": "images/greece_08.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Plato",
+    "text": "Plato writes philosophical dialogues and founds the Academy.",
+    "image": "images/greece_09.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Aristotle",
+    "text": "Aristotle studies logic, nature, politics and many other fields.",
+    "image": "images/greece_10.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Alexander",
+    "text": "Alexander of Macedon creates a vast empire and spreads Greek language and culture widely.",
+    "image": "images/greece_11.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Hellenistic cities",
+    "text": "After Alexander, new kingdoms support libraries, science, art and trade.",
+    "image": "images/greece_12.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "Greek architecture",
+    "text": "Orders such as Doric, Ionic and Corinthian shape monumental design.",
+    "image": "images/greece_13.svg"
+  },
+  {
+    "civ": "Greece",
+    "pageTitle": "A lasting legacy",
+    "text": "Greek ideas and artworks continue to influence education, politics, science and art.",
+    "image": "images/greece_14.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Yellow River communities",
+    "text": "Early farming communities flourish along major rivers.",
+    "image": "images/china_01.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Shang bronze",
+    "text": "Shang society becomes known for bronze casting and oracle-bone inscriptions.",
+    "image": "images/china_02.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Zhou ideas",
+    "text": "The Zhou period develops the Mandate of Heaven as a political concept.",
+    "image": "images/china_03.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Confucius",
+    "text": "Confucius emphasizes learning, ethical conduct and social responsibility.",
+    "image": "images/china_04.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Qin unification",
+    "text": "Qin rulers unify much of China in 221 BCE and standardize important systems.",
+    "image": "images/china_05.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "The first emperor",
+    "text": "Qin Shi Huang oversees major projects and an enormous tomb complex guarded by terracotta warriors.",
+    "image": "images/china_06.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Han expansion",
+    "text": "The Han dynasty strengthens government and expands trade and territory.",
+    "image": "images/china_07.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Silk Roads",
+    "text": "Long-distance exchange links China with Central Asia and beyond.",
+    "image": "images/china_08.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Paper",
+    "text": "Paper develops in China and transforms record keeping and communication.",
+    "image": "images/china_09.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Tang cosmopolitanism",
+    "text": "Tang-era cities connect many cultures, religions and trading communities.",
+    "image": "images/china_10.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Woodblock printing",
+    "text": "Printing technologies help texts and images circulate more widely.",
+    "image": "images/china_11.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "The Great Wall",
+    "text": "Different dynasties build and rebuild frontier walls for defense and control.",
+    "image": "images/china_12.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Ming voyages",
+    "text": "Zheng He’s fleets travel across the Indian Ocean in the early fifteenth century.",
+    "image": "images/china_13.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "Forbidden City",
+    "text": "The imperial palace complex in Beijing becomes a symbol of Ming and Qing rule.",
+    "image": "images/china_14.svg"
+  },
+  {
+    "civ": "China",
+    "pageTitle": "A long tradition",
+    "text": "China’s history spans changing dynasties, regional cultures, technologies and artistic traditions.",
+    "image": "images/china_15.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "A city on the Tiber",
+    "text": "Rome grows from a settlement into a powerful Mediterranean state.",
+    "image": "images/rome_01.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "The Republic",
+    "text": "Roman institutions develop around magistrates, assemblies and the Senate.",
+    "image": "images/rome_02.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "The Twelve Tables",
+    "text": "Written laws become a symbol of Roman ideas about public legal rules.",
+    "image": "images/rome_03.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Punic Wars",
+    "text": "Rome defeats Carthage and expands its influence across the western Mediterranean.",
+    "image": "images/rome_04.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Julius Caesar",
+    "text": "Caesar’s rise changes Roman politics and contributes to the end of the Republic.",
+    "image": "images/rome_05.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Augustus",
+    "text": "Augustus becomes Rome’s first emperor and begins a long period of imperial rule.",
+    "image": "images/rome_06.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Roads and aqueducts",
+    "text": "Roman engineers build roads, bridges, aqueducts and public buildings across the empire.",
+    "image": "images/rome_07.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "The Colosseum",
+    "text": "The Flavian Amphitheatre hosts spectacles and becomes a famous Roman landmark.",
+    "image": "images/rome_08.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Pompeii",
+    "text": "The eruption of Vesuvius in 79 CE preserves parts of Pompeii beneath volcanic material.",
+    "image": "images/rome_09.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Roman households",
+    "text": "Homes, markets, baths and workshops reveal everyday life beyond emperors and generals.",
+    "image": "images/rome_10.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Roman Britain",
+    "text": "Roman rule reaches Britain, leaving roads, forts and towns.",
+    "image": "images/rome_11.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Christianity",
+    "text": "Christian communities grow within the empire and later gain imperial support.",
+    "image": "images/rome_12.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Constantinople",
+    "text": "Constantine establishes a new imperial capital at Constantinople.",
+    "image": "images/rome_13.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "A changing empire",
+    "text": "The western empire fragments politically while Roman traditions continue in new forms.",
+    "image": "images/rome_14.svg"
+  },
+  {
+    "civ": "Rome",
+    "pageTitle": "Legacy",
+    "text": "Roman law, architecture, languages and engineering influence many later societies.",
+    "image": "images/rome_15.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Rainforest cities",
+    "text": "Maya communities build cities in tropical environments using farming and water management.",
+    "image": "images/maya_01.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Calendars",
+    "text": "Maya scholars develop complex calendars for ritual and civic life.",
+    "image": "images/maya_02.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Writing",
+    "text": "Maya inscriptions record rulers, events, rituals and genealogy.",
+    "image": "images/maya_03.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Tikal",
+    "text": "Tikal becomes one of the great Classic Maya centers.",
+    "image": "images/maya_04.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Palenque",
+    "text": "Palenque is known for inscriptions, temples and the tomb of Pakal.",
+    "image": "images/maya_05.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Astronomy",
+    "text": "Maya observations of the sky support calendars and ritual planning.",
+    "image": "images/maya_06.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Ballgame",
+    "text": "The Mesoamerican ballgame has deep ritual and social significance.",
+    "image": "images/maya_07.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "City-states",
+    "text": "Maya politics often involves competing kingdoms, alliances and warfare.",
+    "image": "images/maya_08.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Chichén Itzá",
+    "text": "Chichén Itzá becomes a major center in the northern Yucatán.",
+    "image": "images/maya_09.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Architecture",
+    "text": "Stepped pyramids, plazas and palaces organize ceremonial spaces.",
+    "image": "images/maya_10.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Trade",
+    "text": "Obsidian, cacao, jade and other goods move through regional networks.",
+    "image": "images/maya_11.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Women and power",
+    "text": "Inscriptions show that women could hold important dynastic and political roles.",
+    "image": "images/maya_12.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Environmental change",
+    "text": "Drought and other environmental pressures interact with political and social changes.",
+    "image": "images/maya_13.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Colonial encounters",
+    "text": "Spanish conquest and colonial rule transform Maya societies, but do not erase them.",
+    "image": "images/maya_14.svg"
+  },
+  {
+    "civ": "Maya",
+    "pageTitle": "Living Maya cultures",
+    "text": "Millions of Maya people continue languages, traditions and identities today.",
+    "image": "images/maya_15.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Jomon lifeways",
+    "text": "Jomon communities are known for pottery, fishing, hunting and settled village life.",
+    "image": "images/japan_01.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Yayoi change",
+    "text": "Rice agriculture and new technologies spread during the Yayoi period.",
+    "image": "images/japan_02.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Early states",
+    "text": "Power centers grow and political organization becomes more complex.",
+    "image": "images/japan_03.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Nara capital",
+    "text": "Nara becomes an early permanent imperial capital and a center of Buddhism.",
+    "image": "images/japan_04.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Great Buddha",
+    "text": "Todai-ji and its Great Buddha symbolize the scale of Nara-period Buddhist patronage.",
+    "image": "images/japan_05.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Heian Kyoto",
+    "text": "The court moves to Heian-kyō, later Kyoto, where court culture flourishes.",
+    "image": "images/japan_06.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Murasaki Shikibu",
+    "text": "Murasaki Shikibu writes The Tale of Genji, a landmark of world literature.",
+    "image": "images/japan_07.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Samurai rise",
+    "text": "Warrior families gain power and shape medieval political life.",
+    "image": "images/japan_08.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Kamakura",
+    "text": "The Kamakura shogunate establishes a new military government.",
+    "image": "images/japan_09.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Muromachi arts",
+    "text": "Tea, ink painting, gardens and other arts develop in changing social settings.",
+    "image": "images/japan_10.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Castles",
+    "text": "Castle towns and fortified architecture grow during periods of warfare.",
+    "image": "images/japan_11.svg"
+  },
+  {
+    "civ": "Japan",
+    "pageTitle": "Tokugawa peace",
+    "text": "The Tokugawa shogunate brings long political stability and urban growth.",
+    "image": "images/japan_12.svg"
+  }
+]

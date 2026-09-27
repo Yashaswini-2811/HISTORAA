@@ -1,1 +1,1442 @@
-[]
+[
+  {
+    "civ": "India",
+    "question": "Which river system is strongly associated with the Indus Valley Civilization?",
+    "options": [
+      "Indus",
+      "Nile",
+      "Tiber",
+      "Amazon"
+    ],
+    "answer": 0,
+    "hint": "Think of the civilization’s name."
+  },
+  {
+    "civ": "India",
+    "question": "Mohenjo-daro is best known as what kind of site?",
+    "options": [
+      "An ancient planned city",
+      "A medieval castle",
+      "A Roman amphitheatre",
+      "A Greek sanctuary"
+    ],
+    "answer": 0,
+    "hint": "It was part of the Indus Civilization."
+  },
+  {
+    "civ": "India",
+    "question": "Which emperor is associated with inscriptions promoting ethical conduct after the Kalinga War?",
+    "options": [
+      "Ashoka",
+      "Akbar",
+      "Chandragupta II",
+      "Harsha"
+    ],
+    "answer": 0,
+    "hint": "He ruled the Mauryan Empire."
+  },
+  {
+    "civ": "India",
+    "question": "Nalanda was famous primarily as a centre of what?",
+    "options": [
+      "Learning",
+      "Shipbuilding",
+      "Gladiator games",
+      "Maya astronomy"
+    ],
+    "answer": 0,
+    "hint": "Students and scholars travelled there."
+  },
+  {
+    "civ": "India",
+    "question": "The Taj Mahal is in which city?",
+    "options": [
+      "Agra",
+      "Delhi",
+      "Jaipur",
+      "Mumbai"
+    ],
+    "answer": 0,
+    "hint": "It stands beside the Yamuna."
+  },
+  {
+    "civ": "India",
+    "question": "Hampi was the capital of which empire?",
+    "options": [
+      "Vijayanagara Empire",
+      "Mauryan Empire",
+      "Gupta Empire",
+      "Roman Empire"
+    ],
+    "answer": 0,
+    "hint": "Its ruins are in Karnataka."
+  },
+  {
+    "civ": "India",
+    "question": "Which ancient Indian mathematical concept became important in later place-value notation?",
+    "options": [
+      "Zero",
+      "Negative temperature",
+      "Roman numerals",
+      "Compass rose"
+    ],
+    "answer": 0,
+    "hint": "It represents an empty place."
+  },
+  {
+    "civ": "India",
+    "question": "The Ajanta caves are especially known for ancient what?",
+    "options": [
+      "Paintings and Buddhist art",
+      "Roman mosaics",
+      "Viking ships",
+      "Greek theatres"
+    ],
+    "answer": 0,
+    "hint": "Look at the wall paintings."
+  },
+  {
+    "civ": "India",
+    "question": "Which language family includes many classical and modern Indian languages such as Hindi and Bengali?",
+    "options": [
+      "Indo-Aryan",
+      "Germanic",
+      "Slavic",
+      "Celtic"
+    ],
+    "answer": 0,
+    "hint": "It is a branch of Indo-European."
+  },
+  {
+    "civ": "India",
+    "question": "The Chola dynasty was especially influential in which region?",
+    "options": [
+      "South India",
+      "Northern Europe",
+      "West Africa",
+      "Central America"
+    ],
+    "answer": 0,
+    "hint": "Think of Tamil history."
+  },
+  {
+    "civ": "India",
+    "question": "Which text is a major Sanskrit epic?",
+    "options": [
+      "Mahabharata",
+      "Iliad",
+      "Aeneid",
+      "Popol Vuh"
+    ],
+    "answer": 0,
+    "hint": "It is one of India’s great epics."
+  },
+  {
+    "civ": "India",
+    "question": "Buddhism began in which broad region?",
+    "options": [
+      "South Asia",
+      "Northern Europe",
+      "Mesoamerica",
+      "Southern Africa"
+    ],
+    "answer": 0,
+    "hint": "Think of the life of Siddhartha Gautama."
+  },
+  {
+    "civ": "India",
+    "question": "Which city is famous for the Golden Temple?",
+    "options": [
+      "Amritsar",
+      "Pune",
+      "Patna",
+      "Mysuru"
+    ],
+    "answer": 0,
+    "hint": "It is in Punjab."
+  },
+  {
+    "civ": "India",
+    "question": "The Gupta period is often associated with advances in which fields?",
+    "options": [
+      "Mathematics and astronomy",
+      "Steam engines",
+      "Printing presses in Europe",
+      "Roman law"
+    ],
+    "answer": 0,
+    "hint": "Think of classical Indian science."
+  },
+  {
+    "civ": "India",
+    "question": "Which monument is a famous example of Mughal architecture?",
+    "options": [
+      "Taj Mahal",
+      "Parthenon",
+      "Colosseum",
+      "Great Pyramid"
+    ],
+    "answer": 0,
+    "hint": "It is a mausoleum in Agra."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Which river was central to ancient Egyptian agriculture?",
+    "options": [
+      "Nile",
+      "Indus",
+      "Tiber",
+      "Yellow River"
+    ],
+    "answer": 0,
+    "hint": "It flows through northeastern Africa."
+  },
+  {
+    "civ": "Egypt",
+    "question": "The Great Pyramid was built at which site?",
+    "options": [
+      "Giza",
+      "Delphi",
+      "Hampi",
+      "Pompeii"
+    ],
+    "answer": 0,
+    "hint": "It is part of the famous Giza complex."
+  },
+  {
+    "civ": "Egypt",
+    "question": "What writing system used picture signs in ancient Egypt?",
+    "options": [
+      "Hieroglyphs",
+      "Cuneiform",
+      "Linear B",
+      "Kanji"
+    ],
+    "answer": 0,
+    "hint": "Its name refers to sacred carvings."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Hatshepsut was a ruler of which civilization?",
+    "options": [
+      "Ancient Egypt",
+      "Ancient Rome",
+      "Maya",
+      "Japan"
+    ],
+    "answer": 0,
+    "hint": "She ruled as pharaoh."
+  },
+  {
+    "civ": "Egypt",
+    "question": "The Valley of the Kings is near which ancient Egyptian city?",
+    "options": [
+      "Thebes",
+      "Athens",
+      "Rome",
+      "Tikal"
+    ],
+    "answer": 0,
+    "hint": "Modern Luxor is nearby."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Which material was commonly used for Egyptian writing sheets?",
+    "options": [
+      "Papyrus",
+      "Bamboo paper",
+      "Parchment only",
+      "Silk"
+    ],
+    "answer": 0,
+    "hint": "It comes from a river plant."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Cleopatra VII belonged to which dynasty?",
+    "options": [
+      "Ptolemaic",
+      "Ming",
+      "Gupta",
+      "Flavian"
+    ],
+    "answer": 0,
+    "hint": "The dynasty was of Macedonian Greek origin."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Karnak is famous for what?",
+    "options": [
+      "Temple complex",
+      "Roman road",
+      "Maya ball court",
+      "Samurai castle"
+    ],
+    "answer": 0,
+    "hint": "It is near Luxor."
+  },
+  {
+    "civ": "Egypt",
+    "question": "What is a pharaoh?",
+    "options": [
+      "An ancient Egyptian ruler",
+      "A Roman soldier",
+      "A Greek playwright",
+      "A Maya astronomer"
+    ],
+    "answer": 0,
+    "hint": "Think of Egypt’s kings and queens."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Abu Simbel is associated with which pharaoh?",
+    "options": [
+      "Ramesses II",
+      "Ashoka",
+      "Augustus",
+      "Qin Shi Huang"
+    ],
+    "answer": 0,
+    "hint": "His name appears in monumental inscriptions."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Ancient Egyptian religion included belief in an afterlife.",
+    "options": [
+      "Yes",
+      "No",
+      "Only in Roman times",
+      "Only in Greece"
+    ],
+    "answer": 0,
+    "hint": "Burial practices provide evidence."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Alexandria became famous as a centre of what?",
+    "options": [
+      "Scholarship and trade",
+      "Samurai warfare",
+      "Maya agriculture",
+      "Roman chariot racing"
+    ],
+    "answer": 0,
+    "hint": "Think of the famous ancient library."
+  },
+  {
+    "civ": "Egypt",
+    "question": "The Sphinx at Giza has the body of a what?",
+    "options": [
+      "Lion",
+      "Horse",
+      "Eagle",
+      "Bull"
+    ],
+    "answer": 0,
+    "hint": "Its head is human-like."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Which sea lies north of Egypt?",
+    "options": [
+      "Mediterranean Sea",
+      "Red Sea",
+      "Black Sea",
+      "Arabian Sea"
+    ],
+    "answer": 0,
+    "hint": "Egypt has a long Mediterranean coast."
+  },
+  {
+    "civ": "Egypt",
+    "question": "Egypt later became a province of which ancient empire?",
+    "options": [
+      "Rome",
+      "Maya",
+      "Maurya",
+      "Macedon only"
+    ],
+    "answer": 0,
+    "hint": "Roman rule followed the Ptolemaic period."
+  },
+  {
+    "civ": "Greece",
+    "question": "Which city-state is most associated with the development of classical democracy?",
+    "options": [
+      "Athens",
+      "Sparta",
+      "Thebes",
+      "Corinth"
+    ],
+    "answer": 0,
+    "hint": "Think of the Athenian assembly."
+  },
+  {
+    "civ": "Greece",
+    "question": "Which site was famous for the oracle of Apollo?",
+    "options": [
+      "Delphi",
+      "Giza",
+      "Hampi",
+      "Nara"
+    ],
+    "answer": 0,
+    "hint": "It is on mainland Greece."
+  },
+  {
+    "civ": "Greece",
+    "question": "The ancient Olympic Games were held at which sanctuary?",
+    "options": [
+      "Olympia",
+      "Athens",
+      "Delphi",
+      "Sparta"
+    ],
+    "answer": 0,
+    "hint": "The site gave the Games their name."
+  },
+  {
+    "civ": "Greece",
+    "question": "Socrates is best known as a what?",
+    "options": [
+      "Philosopher",
+      "Emperor",
+      "Architect",
+      "Pharaoh"
+    ],
+    "answer": 0,
+    "hint": "He used questioning to examine ideas."
+  },
+  {
+    "civ": "Greece",
+    "question": "Plato founded which school?",
+    "options": [
+      "Academy",
+      "Lyceum",
+      "Library of Alexandria",
+      "Nalanda"
+    ],
+    "answer": 0,
+    "hint": "It became a famous philosophical institution."
+  },
+  {
+    "civ": "Greece",
+    "question": "Aristotle studied which broad range of subjects?",
+    "options": [
+      "Many fields including logic and nature",
+      "Only military tactics",
+      "Only sculpture",
+      "Only navigation"
+    ],
+    "answer": 0,
+    "hint": "His works cover many disciplines."
+  },
+  {
+    "civ": "Greece",
+    "question": "Alexander the Great came from which kingdom?",
+    "options": [
+      "Macedon",
+      "Egypt",
+      "Rome",
+      "China"
+    ],
+    "answer": 0,
+    "hint": "His father was Philip II."
+  },
+  {
+    "civ": "Greece",
+    "question": "Which style is a classical Greek architectural order?",
+    "options": [
+      "Doric",
+      "Gothic",
+      "Baroque",
+      "Romanesque"
+    ],
+    "answer": 0,
+    "hint": "It is one of three well-known Greek orders."
+  },
+  {
+    "civ": "Greece",
+    "question": "Greek tragedy and comedy were forms of what?",
+    "options": [
+      "Theatre",
+      "Law",
+      "Astronomy",
+      "Navigation"
+    ],
+    "answer": 0,
+    "hint": "They were performed for audiences."
+  },
+  {
+    "civ": "Greece",
+    "question": "Sparta is traditionally associated with a strongly what society?",
+    "options": [
+      "Military-oriented",
+      "Maritime-trading only",
+      "Monastic",
+      "Nomadic"
+    ],
+    "answer": 0,
+    "hint": "Its social system emphasized warrior training."
+  },
+  {
+    "civ": "Greece",
+    "question": "The Parthenon stands on which Athenian hill?",
+    "options": [
+      "Acropolis",
+      "Capitoline",
+      "Palatine",
+      "Forum"
+    ],
+    "answer": 0,
+    "hint": "It overlooks Athens."
+  },
+  {
+    "civ": "Greece",
+    "question": "The Iliad is traditionally attributed to whom?",
+    "options": [
+      "Homer",
+      "Herodotus",
+      "Plato",
+      "Virgil"
+    ],
+    "answer": 0,
+    "hint": "He is a legendary Greek poet."
+  },
+  {
+    "civ": "Greece",
+    "question": "Hellenistic culture spread widely after whose conquests?",
+    "options": [
+      "Alexander the Great",
+      "Julius Caesar",
+      "Ashoka",
+      "Augustus"
+    ],
+    "answer": 0,
+    "hint": "His empire connected Greek and Near Eastern worlds."
+  },
+  {
+    "civ": "Greece",
+    "question": "Greek city-states were generally politically independent from each other.",
+    "options": [
+      "Yes",
+      "No",
+      "Only after Rome",
+      "Only during the Bronze Age"
+    ],
+    "answer": 0,
+    "hint": "Polis meant a distinct political community."
+  },
+  {
+    "civ": "Greece",
+    "question": "Which sea is central to Greek geography?",
+    "options": [
+      "Aegean Sea",
+      "Baltic Sea",
+      "Caribbean Sea",
+      "South China Sea"
+    ],
+    "answer": 0,
+    "hint": "It lies between Greece and Anatolia."
+  },
+  {
+    "civ": "China",
+    "question": "Which dynasty is famous for bronze casting and oracle bones?",
+    "options": [
+      "Shang",
+      "Gupta",
+      "Ptolemaic",
+      "Tokugawa"
+    ],
+    "answer": 0,
+    "hint": "Think of early Chinese civilization."
+  },
+  {
+    "civ": "China",
+    "question": "Who is associated with teachings about ethics, learning and social responsibility?",
+    "options": [
+      "Confucius",
+      "Socrates",
+      "Ashoka",
+      "Hatshepsut"
+    ],
+    "answer": 0,
+    "hint": "He lived in ancient China."
+  },
+  {
+    "civ": "China",
+    "question": "Which dynasty unified China in 221 BCE?",
+    "options": [
+      "Qin",
+      "Han",
+      "Tang",
+      "Ming"
+    ],
+    "answer": 0,
+    "hint": "Its ruler became China’s first emperor."
+  },
+  {
+    "civ": "China",
+    "question": "The Terracotta Army guards the tomb complex of whom?",
+    "options": [
+      "Qin Shi Huang",
+      "Confucius",
+      "Kublai Khan",
+      "Zheng He"
+    ],
+    "answer": 0,
+    "hint": "Think of the first emperor."
+  },
+  {
+    "civ": "China",
+    "question": "Which dynasty is associated with major Silk Road expansion?",
+    "options": [
+      "Han",
+      "Maya",
+      "Roman",
+      "Heian"
+    ],
+    "answer": 0,
+    "hint": "It followed the Qin."
+  },
+  {
+    "civ": "China",
+    "question": "Paper was developed in ancient China.",
+    "options": [
+      "Yes",
+      "No",
+      "Only in Rome",
+      "Only in Egypt"
+    ],
+    "answer": 0,
+    "hint": "It transformed record keeping."
+  },
+  {
+    "civ": "China",
+    "question": "The Tang period is known for what?",
+    "options": [
+      "Cosmopolitan cities and cultural exchange",
+      "Only isolation",
+      "Roman law",
+      "Maya pyramids"
+    ],
+    "answer": 0,
+    "hint": "Think of Chang’an."
+  },
+  {
+    "civ": "China",
+    "question": "Who led famous Ming voyages across the Indian Ocean?",
+    "options": [
+      "Zheng He",
+      "Marco Polo",
+      "Alexander",
+      "Caesar"
+    ],
+    "answer": 0,
+    "hint": "He was a Ming admiral."
+  },
+  {
+    "civ": "China",
+    "question": "The Great Wall was built and rebuilt by which civilization?",
+    "options": [
+      "Chinese states and dynasties",
+      "Roman Britain",
+      "Maya kingdoms",
+      "Greek city-states"
+    ],
+    "answer": 0,
+    "hint": "Different periods contributed sections."
+  },
+  {
+    "civ": "China",
+    "question": "The Forbidden City is in which city?",
+    "options": [
+      "Beijing",
+      "Kyoto",
+      "Athens",
+      "Cairo"
+    ],
+    "answer": 0,
+    "hint": "It was an imperial palace complex."
+  },
+  {
+    "civ": "China",
+    "question": "The Silk Roads connected China with regions to the west.",
+    "options": [
+      "Yes",
+      "No",
+      "Only within China",
+      "Only across Japan"
+    ],
+    "answer": 0,
+    "hint": "They were long-distance networks."
+  },
+  {
+    "civ": "China",
+    "question": "Which philosophy emphasizes harmony and proper relationships and is associated with Confucius?",
+    "options": [
+      "Confucianism",
+      "Stoicism",
+      "Epicureanism",
+      "Shinto"
+    ],
+    "answer": 0,
+    "hint": "It is named after the teacher."
+  },
+  {
+    "civ": "China",
+    "question": "Woodblock printing became important in which historical region?",
+    "options": [
+      "China",
+      "Mesoamerica only",
+      "Ancient Egypt only",
+      "Rome only"
+    ],
+    "answer": 0,
+    "hint": "Chinese printing has early evidence."
+  },
+  {
+    "civ": "China",
+    "question": "Which city was a major Tang capital?",
+    "options": [
+      "Chang’an",
+      "Sparta",
+      "Pompeii",
+      "Hampi"
+    ],
+    "answer": 0,
+    "hint": "It was one of the world’s largest cities."
+  },
+  {
+    "civ": "China",
+    "question": "The Ming dynasty preceded which dynasty?",
+    "options": [
+      "Qing",
+      "Han",
+      "Qin",
+      "Tang"
+    ],
+    "answer": 0,
+    "hint": "Qing was the later imperial dynasty."
+  },
+  {
+    "civ": "Rome",
+    "question": "Rome grew beside which river?",
+    "options": [
+      "Tiber",
+      "Nile",
+      "Indus",
+      "Yellow River"
+    ],
+    "answer": 0,
+    "hint": "It flows through Rome."
+  },
+  {
+    "civ": "Rome",
+    "question": "The Roman Republic preceded the Roman Empire.",
+    "options": [
+      "Yes",
+      "No",
+      "Only in Greece",
+      "Only in Egypt"
+    ],
+    "answer": 0,
+    "hint": "The Republic lasted for centuries."
+  },
+  {
+    "civ": "Rome",
+    "question": "The Twelve Tables are associated with Roman what?",
+    "options": [
+      "Law",
+      "Astronomy",
+      "Painting",
+      "Medicine"
+    ],
+    "answer": 0,
+    "hint": "They are an early written Roman legal code."
+  },
+  {
+    "civ": "Rome",
+    "question": "Which rival power fought Rome in the Punic Wars?",
+    "options": [
+      "Carthage",
+      "Maya",
+      "Macedon only",
+      "Japan"
+    ],
+    "answer": 0,
+    "hint": "Hannibal was its famous general."
+  },
+  {
+    "civ": "Rome",
+    "question": "Who became Rome’s first emperor?",
+    "options": [
+      "Augustus",
+      "Julius Caesar",
+      "Nero",
+      "Trajan"
+    ],
+    "answer": 0,
+    "hint": "He established the principate."
+  },
+  {
+    "civ": "Rome",
+    "question": "The Colosseum was built in which city?",
+    "options": [
+      "Rome",
+      "Athens",
+      "Cairo",
+      "Kyoto"
+    ],
+    "answer": 0,
+    "hint": "It is Rome’s famous amphitheatre."
+  },
+  {
+    "civ": "Rome",
+    "question": "Pompeii was buried by which volcano’s eruption in 79 CE?",
+    "options": [
+      "Vesuvius",
+      "Etna",
+      "Olympus",
+      "Fuji"
+    ],
+    "answer": 0,
+    "hint": "It overlooks the Bay of Naples."
+  },
+  {
+    "civ": "Rome",
+    "question": "Roman aqueducts carried what?",
+    "options": [
+      "Water",
+      "Gold",
+      "Messages",
+      "Soldiers"
+    ],
+    "answer": 0,
+    "hint": "They used gravity and engineered channels."
+  },
+  {
+    "civ": "Rome",
+    "question": "Roman roads helped the empire do what?",
+    "options": [
+      "Connect regions and move people and goods",
+      "Build pyramids",
+      "Predict eclipses only",
+      "Grow rice"
+    ],
+    "answer": 0,
+    "hint": "Infrastructure supported administration and travel."
+  },
+  {
+    "civ": "Rome",
+    "question": "Which emperor is linked to a major early expansion of the Roman Empire?",
+    "options": [
+      "Trajan",
+      "Qin Shi Huang",
+      "Ashoka",
+      "Hatshepsut"
+    ],
+    "answer": 0,
+    "hint": "His reign included conquest in Dacia."
+  },
+  {
+    "civ": "Rome",
+    "question": "Christianity spread within the Roman Empire.",
+    "options": [
+      "Yes",
+      "No",
+      "Only in Japan",
+      "Only in Maya cities"
+    ],
+    "answer": 0,
+    "hint": "It began in the eastern Mediterranean."
+  },
+  {
+    "civ": "Rome",
+    "question": "Constantine is associated with which city?",
+    "options": [
+      "Constantinople",
+      "Hampi",
+      "Delphi",
+      "Tikal"
+    ],
+    "answer": 0,
+    "hint": "He founded a new imperial capital."
+  },
+  {
+    "civ": "Rome",
+    "question": "Roman law influenced many later legal systems.",
+    "options": [
+      "Yes",
+      "No",
+      "Only Egyptian law",
+      "Only Greek drama"
+    ],
+    "answer": 0,
+    "hint": "Its concepts were studied for centuries."
+  },
+  {
+    "civ": "Rome",
+    "question": "Latin developed into several modern languages.",
+    "options": [
+      "Yes",
+      "No",
+      "Only Chinese languages",
+      "Only Maya languages"
+    ],
+    "answer": 0,
+    "hint": "These are called Romance languages."
+  },
+  {
+    "civ": "Rome",
+    "question": "The Roman Empire was centered around which sea?",
+    "options": [
+      "Mediterranean",
+      "Arctic",
+      "Caribbean",
+      "Baltic"
+    ],
+    "answer": 0,
+    "hint": "Romans called it their inland sea."
+  },
+  {
+    "civ": "Maya",
+    "question": "The Maya civilization developed mainly in which region?",
+    "options": [
+      "Mesoamerica",
+      "Northern Europe",
+      "South Asia",
+      "East Africa"
+    ],
+    "answer": 0,
+    "hint": "Think of present-day southern Mexico and Central America."
+  },
+  {
+    "civ": "Maya",
+    "question": "Which site is a famous Maya city?",
+    "options": [
+      "Tikal",
+      "Rome",
+      "Giza",
+      "Hampi"
+    ],
+    "answer": 0,
+    "hint": "It is in Guatemala."
+  },
+  {
+    "civ": "Maya",
+    "question": "Maya writing was used to record what?",
+    "options": [
+      "Rulers, events and rituals",
+      "Only recipes",
+      "Only weather forecasts",
+      "Only Roman laws"
+    ],
+    "answer": 0,
+    "hint": "Inscriptions preserve historical information."
+  },
+  {
+    "civ": "Maya",
+    "question": "Chichén Itzá is in which modern country?",
+    "options": [
+      "Mexico",
+      "India",
+      "Italy",
+      "China"
+    ],
+    "answer": 0,
+    "hint": "It is in the Yucatán Peninsula."
+  },
+  {
+    "civ": "Maya",
+    "question": "Maya scholars developed complex what?",
+    "options": [
+      "Calendars",
+      "Steam engines",
+      "Aqueducts",
+      "Compass needles"
+    ],
+    "answer": 0,
+    "hint": "Timekeeping was central to ritual life."
+  },
+  {
+    "civ": "Maya",
+    "question": "Palenque is famous for inscriptions and the tomb of which ruler?",
+    "options": [
+      "K’inich Janaab’ Pakal",
+      "Augustus",
+      "Ashoka",
+      "Ramesses II"
+    ],
+    "answer": 0,
+    "hint": "His tomb is under the Temple of the Inscriptions."
+  },
+  {
+    "civ": "Maya",
+    "question": "The Maya built large ceremonial centers in tropical environments.",
+    "options": [
+      "Yes",
+      "No",
+      "Only after Rome",
+      "Only in Japan"
+    ],
+    "answer": 0,
+    "hint": "Their cities include plazas and pyramids."
+  },
+  {
+    "civ": "Maya",
+    "question": "The Mesoamerican ballgame had ritual and social importance.",
+    "options": [
+      "Yes",
+      "No",
+      "Only in medieval Europe",
+      "Only in China"
+    ],
+    "answer": 0,
+    "hint": "It appears across Mesoamerican cultures."
+  },
+  {
+    "civ": "Maya",
+    "question": "Obsidian and jade were among goods traded in Mesoamerica.",
+    "options": [
+      "Yes",
+      "No",
+      "Only Roman goods",
+      "Only Japanese goods"
+    ],
+    "answer": 0,
+    "hint": "Archaeology shows long-distance exchange."
+  },
+  {
+    "civ": "Maya",
+    "question": "Maya political organization often involved competing what?",
+    "options": [
+      "City-states or kingdoms",
+      "Modern nation-states",
+      "Roman provinces",
+      "Samurai clans only"
+    ],
+    "answer": 0,
+    "hint": "Inscriptions name rulers and polities."
+  },
+  {
+    "civ": "Maya",
+    "question": "Maya astronomy was connected to calendars and ritual.",
+    "options": [
+      "Yes",
+      "No",
+      "Only to Roman law",
+      "Only to shipbuilding"
+    ],
+    "answer": 0,
+    "hint": "Sky observations had cultural uses."
+  },
+  {
+    "civ": "Maya",
+    "question": "Maya languages are still spoken today.",
+    "options": [
+      "Yes",
+      "No",
+      "Only in museums",
+      "Only in ancient inscriptions"
+    ],
+    "answer": 0,
+    "hint": "Living Maya communities preserve many languages."
+  },
+  {
+    "civ": "Maya",
+    "question": "Tikal is located in which modern country?",
+    "options": [
+      "Guatemala",
+      "Japan",
+      "Greece",
+      "Egypt"
+    ],
+    "answer": 0,
+    "hint": "It is a major archaeological park there."
+  },
+  {
+    "civ": "Maya",
+    "question": "Chichén Itzá is associated with which architectural feature?",
+    "options": [
+      "Large ceremonial pyramids and plazas",
+      "Roman aqueducts",
+      "Greek theatres only",
+      "Japanese castles"
+    ],
+    "answer": 0,
+    "hint": "Its monuments include El Castillo."
+  },
+  {
+    "civ": "Maya",
+    "question": "Spanish colonial rule transformed Maya societies but Maya cultures continued.",
+    "options": [
+      "Yes",
+      "No",
+      "Only for one generation",
+      "Only outside Mesoamerica"
+    ],
+    "answer": 0,
+    "hint": "Maya communities remain active today."
+  },
+  {
+    "civ": "Japan",
+    "question": "Jomon culture is known for what?",
+    "options": [
+      "Pottery and hunter-fisher-gatherer lifeways",
+      "Roman roads",
+      "Pyramids",
+      "Greek democracy"
+    ],
+    "answer": 0,
+    "hint": "Its pottery is among Japan’s oldest."
+  },
+  {
+    "civ": "Japan",
+    "question": "Rice agriculture expanded during which period?",
+    "options": [
+      "Yayoi",
+      "Heian",
+      "Edo",
+      "Meiji"
+    ],
+    "answer": 0,
+    "hint": "It followed the Jomon period."
+  },
+  {
+    "civ": "Japan",
+    "question": "Nara became an early permanent capital in which period?",
+    "options": [
+      "Nara period",
+      "Roman period",
+      "Maya Classic",
+      "Ptolemaic period"
+    ],
+    "answer": 0,
+    "hint": "The period is named after the city."
+  },
+  {
+    "civ": "Japan",
+    "question": "Todai-ji is famous for what?",
+    "options": [
+      "Great Buddha",
+      "Colosseum",
+      "Great Pyramid",
+      "Parthenon"
+    ],
+    "answer": 0,
+    "hint": "It is in Nara."
+  },
+  {
+    "civ": "Japan",
+    "question": "Heian-kyō later became known as which city?",
+    "options": [
+      "Kyoto",
+      "Tokyo",
+      "Osaka",
+      "Nara"
+    ],
+    "answer": 0,
+    "hint": "It remained a major cultural center."
+  },
+  {
+    "civ": "Japan",
+    "question": "Who is traditionally associated with The Tale of Genji?",
+    "options": [
+      "Murasaki Shikibu",
+      "Hatshepsut",
+      "Cleopatra",
+      "Lady Six Sky"
+    ],
+    "answer": 0,
+    "hint": "She was a Heian court writer."
+  },
+  {
+    "civ": "Japan",
+    "question": "Samurai were associated with which social role?",
+    "options": [
+      "Warrior class",
+      "Temple priests only",
+      "Farmers only",
+      "Merchants only"
+    ],
+    "answer": 0,
+    "hint": "They served warrior governments and lords."
+  },
+  {
+    "civ": "Japan",
+    "question": "The Kamakura shogunate was a form of what?",
+    "options": [
+      "Military government",
+      "Roman senate",
+      "Maya city-state",
+      "Egyptian priesthood"
+    ],
+    "answer": 0,
+    "hint": "The shogun held political power."
+  },
+  {
+    "civ": "Japan",
+    "question": "Tokugawa rule brought long political stability.",
+    "options": [
+      "Yes",
+      "No",
+      "Only for one year",
+      "Only outside Japan"
+    ],
+    "answer": 0,
+    "hint": "The Edo period lasted from the early 1600s to the 1800s."
+  },
+  {
+    "civ": "Japan",
+    "question": "Kabuki is a form of what?",
+    "options": [
+      "Theatre",
+      "Architecture",
+      "Agriculture",
+      "Writing system"
+    ],
+    "answer": 0,
+    "hint": "It is a famous performing art."
+  },
+  {
+    "civ": "Japan",
+    "question": "Ukiyo-e is associated with what?",
+    "options": [
+      "Woodblock prints",
+      "Roman mosaics",
+      "Maya calendars",
+      "Egyptian hieroglyphs"
+    ],
+    "answer": 0,
+    "hint": "It flourished in the Edo period."
+  },
+  {
+    "civ": "Japan",
+    "question": "Himeji Castle is in which country?",
+    "options": [
+      "Japan",
+      "China",
+      "Greece",
+      "India"
+    ],
+    "answer": 0,
+    "hint": "It is one of Japan’s best-known castles."
+  },
+  {
+    "civ": "Japan",
+    "question": "The Meiji period saw rapid modernization and industrialization.",
+    "options": [
+      "Yes",
+      "No",
+      "Only in ancient times",
+      "Only in Egypt"
+    ],
+    "answer": 0,
+    "hint": "Japan reorganized institutions after 1868."
+  },
+  {
+    "civ": "Japan",
+    "question": "Shinto is a religious tradition associated with which country?",
+    "options": [
+      "Japan",
+      "Rome",
+      "Maya region",
+      "Egypt"
+    ],
+    "answer": 0,
+    "hint": "Shrines and kami are central concepts."
+  },
+  {
+    "civ": "Japan",
+    "question": "Kyoto is famous for temples, gardens and traditional arts.",
+    "options": [
+      "Yes",
+      "No",
+      "Only for Roman ruins",
+      "Only for pyramids"
+    ],
+    "answer": 0,
+    "hint": "It preserves many historical sites."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which civilization built the Colosseum?",
+    "options": [
+      "Rome",
+      "Egypt",
+      "Maya",
+      "Japan"
+    ],
+    "answer": 0,
+    "hint": "Think of gladiatorial spectacles."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which site is in Japan?",
+    "options": [
+      "Himeji Castle",
+      "Giza",
+      "Delphi",
+      "Tikal"
+    ],
+    "answer": 0,
+    "hint": "It is a famous Japanese castle."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which site is in Greece?",
+    "options": [
+      "Parthenon",
+      "Taj Mahal",
+      "Great Pyramid",
+      "Himeji Castle"
+    ],
+    "answer": 0,
+    "hint": "It stands on the Acropolis."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which civilization is associated with the Nile?",
+    "options": [
+      "Egypt",
+      "Maya",
+      "Rome",
+      "China"
+    ],
+    "answer": 0,
+    "hint": "Think of northeastern Africa."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which civilization developed oracle-bone inscriptions?",
+    "options": [
+      "China",
+      "Greece",
+      "India",
+      "Japan"
+    ],
+    "answer": 0,
+    "hint": "They are associated with the Shang."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which civilization is associated with Tikal?",
+    "options": [
+      "Maya",
+      "Roman",
+      "Egyptian",
+      "Japanese"
+    ],
+    "answer": 0,
+    "hint": "It is in Guatemala."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which site is in India?",
+    "options": [
+      "Hampi",
+      "Pompeii",
+      "Delphi",
+      "Tikal"
+    ],
+    "answer": 0,
+    "hint": "It was a Vijayanagara capital."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which ruler is associated with the Mauryan Empire?",
+    "options": [
+      "Ashoka",
+      "Augustus",
+      "Qin Shi Huang",
+      "Hatshepsut"
+    ],
+    "answer": 0,
+    "hint": "He promoted ethical messages after the Kalinga War."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which ruler is associated with the Qin dynasty?",
+    "options": [
+      "Qin Shi Huang",
+      "Ashoka",
+      "Augustus",
+      "Murasaki Shikibu"
+    ],
+    "answer": 0,
+    "hint": "He became China’s first emperor."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which writer is associated with The Tale of Genji?",
+    "options": [
+      "Murasaki Shikibu",
+      "Homer",
+      "Plato",
+      "Virgil"
+    ],
+    "answer": 0,
+    "hint": "She lived in Heian Japan."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which site is associated with an ancient Greek oracle?",
+    "options": [
+      "Delphi",
+      "Palenque",
+      "Karnak",
+      "Nalanda"
+    ],
+    "answer": 0,
+    "hint": "It was sacred to Apollo."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which monument is a Roman amphitheatre?",
+    "options": [
+      "Colosseum",
+      "Parthenon",
+      "Taj Mahal",
+      "Great Pyramid"
+    ],
+    "answer": 0,
+    "hint": "It is in Rome."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which civilization used hieroglyphs?",
+    "options": [
+      "Ancient Egypt",
+      "Rome",
+      "Maya only",
+      "Japan"
+    ],
+    "answer": 0,
+    "hint": "They appear on temples and monuments."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which civilization is famous for the Silk Roads?",
+    "options": [
+      "China",
+      "Maya",
+      "Greece only",
+      "Egypt only"
+    ],
+    "answer": 0,
+    "hint": "Long-distance trade connected it with Central Asia."
+  },
+  {
+    "civ": "Mixed",
+    "question": "Which site is associated with the Maya?",
+    "options": [
+      "Chichén Itzá",
+      "Hampi",
+      "Pompeii",
+      "Nara"
+    ],
+    "answer": 0,
+    "hint": "It is in Yucatán."
+  }
+]
