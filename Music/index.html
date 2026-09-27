@@ -1,0 +1,27 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HISTORAA — Journey Through Civilizations</title><link rel="stylesheet" href="style.css"></head><body>
+<header><b>⏳ HISTORAA</b><nav>
+<button onclick="page('home')">Home</button><button onclick="page('map')">🗺️ Map</button><button onclick="page('comics')">📖 Comics</button><button onclick="page('women')">👩 Women Book</button><button onclick="page('quiz')">🧠 Quiz</button><button onclick="page('brain')">💡 Brain Blast</button><button onclick="page('cards')">🃏 Cards</button><button onclick="page('hunt')">🏃 Treasure Hunt</button></nav><span>⭐ <b id="xp">0</b> XP</span></header>
+<main>
+<section id="home" class="active"><div class="hero"><div><small>SMART HACKATHON • CULTURE + HISTORY + PLAY</small><h1>History isn't a textbook.<br><em>It's an adventure.</em></h1><p>Explore civilizations, meet extraordinary women, discover monuments, collect cards, solve puzzles and hunt for treasure.</p><button class="gold" onclick="page('map')">START YOUR JOURNEY →</button></div><div class="globe">🌍<small>7 CIVILIZATIONS</small></div></div><div class="grid four"><article>🗺️ <b>Explore</b><p>Unlock places and monuments.</p></article><article>📖 <b>Read</b><p>Comic stories and a 50-page women book.</p></article><article>🧠 <b>Play</b><p>Quiz, hints, puzzles and daily brain teasers.</p></article><article>🏃 <b>Run</b><p>Collect artifacts in the treasure hunt.</p></article></div><blockquote>“In HISTORAA, a wrong answer is another path to discovery.”</blockquote></section>
+
+<section id="map"><h2>🗺️ Interactive Historical World Map</h2><div class="map" id="mapbox"></div><div class="info" id="info">Click a glowing civilization.</div></section>
+
+<section id="comics"><h2>📖 Civilization Comic Library</h2><div class="comic"><div class="comic-art" id="comicArt">🇮🇳</div><div><p>PAGE <b id="cp">1</b> / 100</p><h2 id="ct">India — A Civilization Awakens</h2><p id="cx">Across rivers and fertile plains, communities grew into cities, creating art, trade, knowledge and traditions.</p><button onclick="comic(-1)">← Previous</button> <button class="gold" onclick="comic(1)">Next Page →</button></div></div></section>
+
+<section id="women"><h2>👩 Women Who Changed History</h2><div class="book"><div class="bookpic" id="wpic">👑</div><div><small id="wpage">PAGE 1 / 50</small><h2 id="wname">Women Who Changed History</h2><p id="wstory">Meet remarkable women through short illustrated stories. Each chapter connects a life, a place, an achievement and a legacy.</p><div class="fact" id="wfact">📜 Historical fact and comic reconstruction are kept clearly separated.</div><button class="gold" onclick="woman()">Turn the page →</button></div></div></section>
+
+<section id="quiz"><h2>🧠 Quiz Arena</h2><div class="quiz"><p id="q"></p><div id="answers"></div><div id="feedback"></div></div></section>
+
+<section id="brain"><h2>💡 Daily Brain Blast</h2><div class="quiz brain"><p id="bdate"></p><h1 id="bq">FOUR + GET + IT = ?</h1><input id="ba" placeholder="Type your answer"><br><button class="gold" onclick="solveBrain()">Solve Mystery</button> <button onclick="hintBrain()">🔎 Hint</button><div id="bf"></div><p>🔥 Daily streak: <b id="streak">0</b></p></div></section>
+
+<section id="cards"><h2>🃏 Collectible History Cards</h2><div class="grid four" id="cardsbox"></div></section>
+
+<section id="hunt"><h2>🏃 Lost Temple Treasure Run</h2><div class="game"><canvas id="canvas" width="900" height="400"></canvas>
+<div class="mobile-controls" aria-label="Treasure Hunt mobile controls">
+  <button class="game-btn" id="leftBtn" aria-label="Move left">◀</button>
+  <button class="game-btn jump" id="jumpBtn" aria-label="Jump">⬆ JUMP</button>
+  <button class="game-btn" id="rightBtn" aria-label="Move right">▶</button>
+</div>
+<div class="game-actions"><button class="gold" onclick="startGame()">▶ Start / Restart</button><button onclick="pauseGame()">⏸ Pause</button></div>
+<p class="game-help">📱 Mobile: use the left/right buttons to run and JUMP to leap over obstacles. Desktop: use ← → and Space/↑.</p></div></section>
+</main><footer>HISTORAA • Student Innovation Prototype • Free GitHub Pages Ready</footer><script src="script.js"></script></body></html>
